@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Code::Together",
+        "invite_code": "https://discord.com/invite/ekgFE4s",
+        "official": false,
+        "homepage": "https://together.codes/",
+        "git": "https://github.com/codedtogether",
+        "notable_channels": [
+            "#looking-for-dev",
+            "#challenges",
+            "#python",
+            "#javascript,#c-family",
+            "#java",
+            "#html-css-web-js #dotnet",
+            "#databases",
+            "#hosting"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/devcord.webp"
+    },
+    {
+        "name": "Devcord",
+        "invite_code": "https://discord.com/invite/devcord",
+        "official": true,
+        "homepage": "https://devcord.com/",
+        "git": "https://github.com/devcord",
+        "notable_channels": [
+            "#javascript",
+            "#frontend",
+            "#backend",
+            "#php",
+            "#mobile",
+            "#design",
+            "#devops",
+            "#career",
+            "#code-review",
+            "#webtopic",
+            "#desktopic",
+            "#community-projects",
+            "#paid-work"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/engineerman.webp"
+    },
+    {
+        "name": "EngineerMan",
+        "invite_code": "https://discord.com/invite/engineerman",
+        "official": true,
+        "homepage": "https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ",
+        "git": "https://github.com/engineer-man",
+        "notable_channels": [
+            "#linux",
+            "#c-cpp-csharp",
+            "#python",
+            "#go-rust",
+            "#js-ts-node-deno-html-css",
+            "#java-kotlin",
+            "#julia-ruby-swift",
+            "#datascience-sql",
+            "#os-hardware-robotics",
+            "#networking-security-mods"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": ""
+    }
+]

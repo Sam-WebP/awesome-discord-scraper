@@ -2,32 +2,61 @@ import re
 import json
 import os
 
-# Function to parse community data from README.md
 def parse_readme(readme_content):
     communities = []
-    
-    # Regex pattern to match community sections in README.md
-    pattern = re.compile(
-        r'\[__(?P<name>.*?)__\]\((?P<invite_link>https://discord\.com/invite/(?P<invite_code>.*?)\)\).*?'
-        r'Notable Channels: (?P<notable_channels>.*?) \\.*?'
-        r'Language: (?P<language>.*?)\n\n',
-        re.DOTALL
-    )
-    
-    matches = pattern.finditer(readme_content)
-    
-    for match in matches:
-        community = {
-            "name": match.group('name').strip(),
-            "invite_code": match.group('invite_code').strip(),
-            "official": False,  # This would need to be determined separately
-            "homepage": "",  # Add homepage if available
-            "git": "",  # Add git link if available
-            "notable_channels": [channel.strip() for channel in match.group('notable_channels').replace('`', '').split(', ')],
-            "language": [lang.strip() for lang in match.group('language').replace('`', '').split(', ')]
-        }
+    community = None
+
+    lines = readme_content.splitlines()
+    for line in lines:
+        line = line.strip()
+        print(f"Processing line: {line}")
+        # Match community name, invite link, official badge, homepage URL, and Git repository URL
+        match = re.search(r'\[__(?P<name>.*?)__\]\((?P<invite_link>https://discord\.com/invite/(?P<invite_code>.*?))\)(?:\s*\[<img.*?alt="Official Badge".*?\]\(badges\.md#official-identification-badge\))?(?:\s*\[<img.*?alt="Homepage URL".*?\]\((?P<homepage>.*?)\))?(?:\s*\[<img.*?alt="Git Repository".*?\]\((?P<git>.*?)\))?', line)
+        if match:
+            if community:
+                communities.append(community)
+            community = {
+                "name": match.group('name').strip(),
+                "invite_code": match.group('invite_link').strip(),
+                "official": False,  # Set initial value to False
+                "homepage": match.group('homepage').strip() if match.group('homepage') else "",
+                "git": match.group('git').strip() if match.group('git') else "",
+                "notable_channels": [],
+                "language": [],
+                "icon": ""
+            }
+            print(f"Matched community: {community}")  # Debugging statement
+
+            # Match official badge
+            if re.search(r'\[<img.*?alt="Official Badge".*?\]\(badges\.md#official-identification-badge\)', line):
+                community["official"] = True  # Set official to True if the official badge is found
+                print(f"Marked as official: {community['name']}")  # Debugging statement
+
+            continue
+
+        if community:  # Ensure community is initialized before proceeding
+            # Match server icon
+            match = re.search(r'<img align="left" height="94px" width="94px" alt="Server Icon" src="(?P<icon>.*?)">', line)
+            if match:
+                community["icon"] = match.group('icon').strip()
+                print(f"Matched icon: {community['icon']} for {community['name']}")  # Debugging statement
+
+            # Match notable channels
+            match = re.search(r'Notable Channels: (?P<notable_channels>.*?)\\', line)
+            if match:
+                notable_channels = match.group('notable_channels').replace('`', '').split(', ')
+                community["notable_channels"] = [channel.strip() for channel in notable_channels]
+                print(f"Matched notable channels: {community['notable_channels']} for {community['name']}")  # Debugging statement
+
+            # Match language
+            match = re.search(r'Language: (?P<language>.*)', line)
+            if match:
+                community["language"] = [lang.strip() for lang in match.group('language').split(',')]
+                print(f"Matched language: {community['language']} for {community['name']}")  # Debugging statement
+
+    if community:
         communities.append(community)
-    
+
     return communities
 
 # Path to the input file
