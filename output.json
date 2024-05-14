@@ -9,16 +9,18 @@
             "#looking-for-dev",
             "#challenges",
             "#python",
-            "#javascript,#c-family",
+            "#javascript",
+            "#c-family",
             "#java",
-            "#html-css-web-js #dotnet",
+            "#html-css-web-js",
+            "#dotnet",
             "#databases",
             "#hosting"
         ],
         "language": [
             "English"
         ],
-        "icon": "images/server_icons/devcord.webp"
+        "icon": "images/server_icons/code_support.webp"
     },
     {
         "name": "Devcord",
@@ -44,7 +46,7 @@
         "language": [
             "English"
         ],
-        "icon": "images/server_icons/engineerman.webp"
+        "icon": "images/server_icons/devcord.webp"
     },
     {
         "name": "EngineerMan",
@@ -67,6 +69,6 @@
         "language": [
             "English"
         ],
-        "icon": ""
+        "icon": "images/server_icons/engineerman.webp"
     }
 ]

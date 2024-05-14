@@ -10,6 +10,14 @@ def parse_readme(readme_content):
     for line in lines:
         line = line.strip()
         print(f"Processing line: {line}")
+        
+        # Match server icon
+        match = re.search(r'<img align="left" height="94px" width="94px" alt="Server Icon" src="(?P<icon>.*?)">', line)
+        if match:
+            icon_url = match.group('icon').strip()
+            print(f"Matched icon: {icon_url}")  # Debugging statement
+            continue
+
         # Match community name, invite link, official badge, homepage URL, and Git repository URL
         match = re.search(r'\[__(?P<name>.*?)__\]\((?P<invite_link>https://discord\.com/invite/(?P<invite_code>.*?))\)(?:\s*\[<img.*?alt="Official Badge".*?\]\(badges\.md#official-identification-badge\))?(?:\s*\[<img.*?alt="Homepage URL".*?\]\((?P<homepage>.*?)\))?(?:\s*\[<img.*?alt="Git Repository".*?\]\((?P<git>.*?)\))?', line)
         if match:
@@ -23,7 +31,7 @@ def parse_readme(readme_content):
                 "git": match.group('git').strip() if match.group('git') else "",
                 "notable_channels": [],
                 "language": [],
-                "icon": ""
+                "icon": icon_url if 'icon_url' in locals() else ""
             }
             print(f"Matched community: {community}")  # Debugging statement
 
@@ -32,19 +40,15 @@ def parse_readme(readme_content):
                 community["official"] = True  # Set official to True if the official badge is found
                 print(f"Marked as official: {community['name']}")  # Debugging statement
 
+            # Reset icon_url for next community
+            icon_url = ""
             continue
 
         if community:  # Ensure community is initialized before proceeding
-            # Match server icon
-            match = re.search(r'<img align="left" height="94px" width="94px" alt="Server Icon" src="(?P<icon>.*?)">', line)
-            if match:
-                community["icon"] = match.group('icon').strip()
-                print(f"Matched icon: {community['icon']} for {community['name']}")  # Debugging statement
-
             # Match notable channels
-            match = re.search(r'Notable Channels: (?P<notable_channels>.*?)\\', line)
+            match = re.search(r'Notable Channels: (?P<notable_channels>.*?)(?:\\|\n|$)', line)
             if match:
-                notable_channels = match.group('notable_channels').replace('`', '').split(', ')
+                notable_channels = re.split(r',\s*', match.group('notable_channels').replace('`', ''))
                 community["notable_channels"] = [channel.strip() for channel in notable_channels]
                 print(f"Matched notable channels: {community['notable_channels']} for {community['name']}")  # Debugging statement
 
