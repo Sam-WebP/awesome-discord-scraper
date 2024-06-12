@@ -12,15 +12,16 @@
             "#javascript",
             "#c-family",
             "#java",
-            "#html-css-web-js",
-            "#dotnet",
+            "#html-css-web-js #dotnet",
             "#databases",
             "#hosting"
         ],
         "language": [
             "English"
         ],
-        "icon": "images/server_icons/code_support.webp"
+        "icon": "images/server_icons/code_support.webp",
+        "category": "Programming in General",
+        "subcategory": "Support Communities"
     },
     {
         "name": "Devcord",
@@ -46,7 +47,9 @@
         "language": [
             "English"
         ],
-        "icon": "images/server_icons/devcord.webp"
+        "icon": "images/server_icons/devcord.webp",
+        "category": "Programming in General",
+        "subcategory": "Support Communities"
     },
     {
         "name": "EngineerMan",
@@ -69,6 +72,5849 @@
         "language": [
             "English"
         ],
-        "icon": "images/server_icons/engineerman.webp"
+        "icon": "images/server_icons/engineerman.webp",
+        "category": "Programming in General",
+        "subcategory": "Support Communities"
+    },
+    {
+        "name": "Garbage Collectors",
+        "invite_code": "https://discord.com/invite/aJwTAgS",
+        "official": false,
+        "homepage": "",
+        "git": "https://github.com/garbage-collectors-development",
+        "notable_channels": [
+            "#python exercises",
+            "#code feedback",
+            "#collaboration",
+            "#csharp",
+            "#java",
+            "#c and cpp",
+            "#web",
+            "#mobile",
+            "#security",
+            "#algos and ds",
+            "#networking",
+            "#resources",
+            "#machinelearning"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/garbage_collectors.webp",
+        "category": "Programming in General",
+        "subcategory": "Support Communities"
+    },
+    {
+        "name": "Programmers Palace",
+        "invite_code": "https://discord.com/invite/48Zxcpy",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#recruitment-hiring",
+            "#java",
+            "#python",
+            "#c_langs",
+            "#javascript",
+            "#lua",
+            "#web-dev",
+            "#php",
+            "#other-support"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/programmers_palace.webp",
+        "category": "Programming in General",
+        "subcategory": "Support Communities"
+    },
+    {
+        "name": "Programming",
+        "invite_code": "https://discord.com/invite/010z0Kw1A9ql5c1Qe",
+        "official": false,
+        "homepage": "",
+        "git": "https://github.com/strinking/",
+        "notable_channels": [
+            "#data-science",
+            "#graphics-programming",
+            "#dev-tools-and-ops",
+            "#unix-like",
+            "#web-dev",
+            "#security",
+            "#c-language",
+            "#java-jvm",
+            "#javascript",
+            "#odin-lang",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/programming.webp",
+        "category": "Programming in General",
+        "subcategory": "Support Communities"
+    },
+    {
+        "name": "Programming Discussions",
+        "invite_code": "https://discord.com/invite/9zT7NHP",
+        "official": false,
+        "homepage": "https://progdisc.club/",
+        "git": "https://github.com/progdisc",
+        "notable_channels": [
+            "#beginners",
+            "#interview-prep",
+            "#java-and-jvm",
+            "#c-sharp-and-dotnet",
+            "#ai-and-ml",
+            "#asm-and-systems",
+            "#cs-theory",
+            "#databses",
+            "#software-architecture",
+            "#shells",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/programming_discussions.webp",
+        "category": "Programming in General",
+        "subcategory": "Support Communities"
+    },
+    {
+        "name": "r/CodingHelp",
+        "invite_code": "https://discord.com/invite/dbe5NnA",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/CodingHelp/",
+        "git": "",
+        "notable_channels": [
+            "#general",
+            "#html-css",
+            "#javascript",
+            "#php",
+            "#java",
+            "#python",
+            "#csharp",
+            "#c-cpp"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/r_codinghelp.webp",
+        "category": "Programming in General",
+        "subcategory": "Support Communities"
+    },
+    {
+        "name": "The Coding Den",
+        "invite_code": "https://discord.com/invite/code",
+        "official": false,
+        "homepage": "",
+        "git": "https://github.com/TheCodingDen",
+        "notable_channels": [
+            "#odin-general",
+            "#creations-showcase",
+            "#ubuntu-help",
+            "#tech-support-general",
+            "#virtualbox-help",
+            "#git-help",
+            "#html-css-help",
+            "#javascript-help",
+            "#nodejs-help",
+            "#rails-help"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/the_coding_den.webp",
+        "category": "Programming in General",
+        "subcategory": "Support Communities"
+    },
+    {
+        "name": "The Programmer's Hangout",
+        "invite_code": "https://discord.com/invite/programming",
+        "official": false,
+        "homepage": "https://theprogrammershangout.com/",
+        "git": "https://github.com/the-programmers-hangout",
+        "notable_channels": [
+            "#beginners",
+            "#javascript",
+            "#java",
+            "#kotlin",
+            "#rust-lang",
+            "#ruby",
+            "#ai-and-ml",
+            "#career-advice",
+            "#databases",
+            "#gamedev",
+            "#ux-and-ui",
+            "#shells",
+            "#version-control",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/the_programmers_hangout.webp",
+        "category": "Programming in General",
+        "subcategory": "Support Communities"
+    },
+    {
+        "name": "webdev and web_design",
+        "invite_code": "https://discord.com/invite/keD8rZp",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/webdev/",
+        "git": "https://github.com/ljosberinn/webdev-support-bot",
+        "notable_channels": [
+            "#dev-help",
+            "#dev-chat",
+            "#app-feedback",
+            "#design",
+            "#user-experience",
+            "#html",
+            "#css",
+            "#javascript",
+            "#typescript",
+            "js-framework",
+            "#react",
+            "#vue",
+            "#php",
+            "#dot-net",
+            "#devops",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/webdev_and_web_design.webp",
+        "category": "Programming in General",
+        "subcategory": "Support Communities"
+    },
+    {
+        "name": "CP Community",
+        "invite_code": "https://discord.com/invite/algorithms",
+        "official": true,
+        "homepage": "https://codeforces.com/",
+        "git": "https://github.com/Codeforces",
+        "notable_channels": [
+            "#beginner-questions",
+            "#general-cp",
+            "#problem-spoilers",
+            "#ioi",
+            "#icpc",
+            "#math",
+            "#errichto-yt",
+            "#vplanet"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/cp_community.webp",
+        "category": "Programming in General",
+        "subcategory": "Competitive Programming"
+    },
+    {
+        "name": "Computer Science",
+        "invite_code": "https://discord.com/invite/eF3Wjsd",
+        "official": false,
+        "homepage": "https://www.discordnetwork.com/",
+        "git": "",
+        "notable_channels": [
+            "#computer-science",
+            "#resources",
+            "#algorithms-and-data-structures",
+            "#theory-of-computation",
+            "#information-and-coding-theory",
+            "#cryptography",
+            "#artificial-intelligence"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/computer_science.webp",
+        "category": "Art of Computer Science",
+        "subcategory": "Computer Science"
+    },
+    {
+        "name": "cs50",
+        "invite_code": "https://discord.com/invite/QYZQfZ6",
+        "official": true,
+        "homepage": "https://www.edx.org/course/cs50s-introduction-to-computer-science",
+        "git": "",
+        "notable_channels": [
+            "#lectures",
+            "#scratch",
+            "#hello",
+            "#mario",
+            "#cash",
+            "#credit",
+            "#readability",
+            "#caesar",
+            "#substitution",
+            "#plurality",
+            "#runoff",
+            "#tideman",
+            "#c-to-python-sentimental",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/cs50.webp",
+        "category": "Art of Computer Science",
+        "subcategory": "Computer Science"
+    },
+    {
+        "name": "Mathematics",
+        "invite_code": "https://discord.com/invite/BacbVax",
+        "official": false,
+        "homepage": "https://www.discordnetwork.com/",
+        "git": "",
+        "notable_channels": [
+            "#prealg-algebra",
+            "#calculus",
+            "#linear-algebra",
+            "#computing-software",
+            "#probability-statistics",
+            "#discrete-math",
+            "#abstract-algebra",
+            "#questions",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/mathematics.webp",
+        "category": "Art of Computer Science",
+        "subcategory": "Mathematics"
+    },
+    {
+        "name": "Physics",
+        "invite_code": "https://discord.com/invite/N5jVwsg",
+        "official": false,
+        "homepage": "https://www.discordnetwork.com/",
+        "git": "",
+        "notable_channels": [
+            "#questions",
+            "#undergrad-physics",
+            "#graduate-physics #mathematical-physics",
+            "#astronomy-and-cosmology",
+            "#computational-physics",
+            "#engineering",
+            "#challenges"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/physics.webp",
+        "category": "Art of Computer Science",
+        "subcategory": "Physics"
+    },
+    {
+        "name": "Biological Sciences",
+        "invite_code": "https://discord.com/invite/QwSdffq",
+        "official": false,
+        "homepage": "https://www.discordnetwork.com/",
+        "git": "",
+        "notable_channels": [
+            "#biology",
+            "#questions",
+            "#resources",
+            "#molecular-biology",
+            "#microbiology",
+            "#anatomy-and-physiology",
+            "#bioengineering",
+            "#bioinformatics",
+            "#ecology",
+            "#medical-sciences"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/biological_sciences.webp",
+        "category": "Art of Computer Science",
+        "subcategory": "Other Sciences"
+    },
+    {
+        "name": "Chemistry",
+        "invite_code": "https://discord.com/invite/eexdsFw",
+        "official": false,
+        "homepage": "https://www.discordnetwork.com/",
+        "git": "",
+        "notable_channels": [
+            "#highschool-chemistry",
+            "#general-chemistry",
+            "#introductory-organic",
+            "#tech",
+            "#laboratory",
+            "#physical-chemistry",
+            "#inorganic-chemistry",
+            "#organic-chemistry",
+            "#biochemistry"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/chemistry.webp",
+        "category": "Art of Computer Science",
+        "subcategory": "Other Sciences"
+    },
+    {
+        "name": "Climate Science",
+        "invite_code": "https://discord.com/invite/YXvuN8X",
+        "official": false,
+        "homepage": "https://www.discordnetwork.com/",
+        "git": "",
+        "notable_channels": [
+            "#general",
+            "#climate-questions",
+            "#resources",
+            "#climate-activism",
+            "#environmental-science",
+            "#environmental-policy"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/climate_science.webp",
+        "category": "Art of Computer Science",
+        "subcategory": "Other Sciences"
+    },
+    {
+        "name": "Homework Help",
+        "invite_code": "https://discord.com/invite/YudDZtb",
+        "official": false,
+        "homepage": "http://homework-help.org/",
+        "git": "https://github.com/spjy/hwh-bot",
+        "notable_channels": [
+            "#challenges",
+            "#math",
+            "#post-calculus #biology",
+            "#chemistry",
+            "#physics",
+            "#english",
+            "#social-science",
+            "#history",
+            "#computer-science",
+            "#studio-art",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/homework_help.webp",
+        "category": "Art of Computer Science",
+        "subcategory": "Other Sciences"
+    },
+    {
+        "name": "Science and Technology",
+        "invite_code": "https://discord.com/invite/science",
+        "official": false,
+        "homepage": "",
+        "git": "https://github.com/SciTechCommunity",
+        "notable_channels": [
+            "#astronomy",
+            "#biology",
+            "#chemistry #engineering",
+            "#environment",
+            "#mathematics",
+            "#geometry",
+            "#calculus",
+            "#physics",
+            "#psychology",
+            "#technology",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/science_and_technology.webp",
+        "category": "Art of Computer Science",
+        "subcategory": "Other Sciences"
+    },
+    {
+        "name": "/r/EngineeringStudents",
+        "invite_code": "https://discord.com/invite/engineeringstudents",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/EngineeringStudents/",
+        "git": "",
+        "notable_channels": [
+            "#homework",
+            "#college-101-and-applications",
+            "#academics-and-teaching",
+            "#research",
+            "#jobs-resume-finance",
+            "#hobbies-and-projects"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/_r_engineeringstudents.webp",
+        "category": "Electrical",
+        "subcategory": "Engineering"
+    },
+    {
+        "name": "Aerospace & Mech Eng",
+        "invite_code": "https://discord.com/invite/fYkvJNQ",
+        "official": false,
+        "homepage": "https://www.discordnetwork.com/",
+        "git": "",
+        "notable_channels": [
+            "#general-engineering",
+            "#events",
+            "#questions",
+            "#astronautics-aeronautics #thermo-fluids",
+            "#mechanics",
+            "#structural-analysis",
+            "#mechatronics",
+            "#design"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/aerospace_and_mech_eng.webp",
+        "category": "Electrical",
+        "subcategory": "Engineering"
+    },
+    {
+        "name": "Amulius - Engineering  & Chill",
+        "invite_code": "https://discord.com/invite/5vkPupa",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#general",
+            "#electrical",
+            "#civil",
+            "#mechanical",
+            "#software",
+            "#chemical",
+            "#aerospace",
+            "#industrial",
+            "#engineering-lobby",
+            "#student-lobby",
+            "#careeer-advice",
+            "#projects-showcase"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/amulius___engineering____chill__.webp",
+        "category": "Electrical",
+        "subcategory": "Engineering"
+    },
+    {
+        "name": "Electrical Engineering",
+        "invite_code": "https://discord.com/invite/W8v5EK2",
+        "official": false,
+        "homepage": "https://www.discordnetwork.com/",
+        "git": "",
+        "notable_channels": [
+            "#electrical-engineering",
+            "#questions",
+            "#computer-engineering #electronics-engineering",
+            "#power-engineering",
+            "#signal-controls",
+            "#mechanical-engineering",
+            "#robotics"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/electrical_engineering.webp",
+        "category": "Electrical",
+        "subcategory": "Engineering"
+    },
+    {
+        "name": "Real Engineering Discord",
+        "invite_code": "https://discord.com/invite/emx3W4Z",
+        "official": true,
+        "homepage": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
+        "git": "",
+        "notable_channels": [
+            "#the-library-discussions",
+            "#study-and-career-help",
+            "#sustainable-engineering",
+            "#bioengineering",
+            "#mechanical-engineering",
+            "#aero-and-astronautical",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/real_engineering_discord.webp",
+        "category": "Electrical",
+        "subcategory": "Engineering"
+    },
+    {
+        "name": "Amulius - Embedded Engineering",
+        "invite_code": "https://discord.com/invite/SrJEYjq",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#arduino-discussion",
+            "#product-help",
+            "#coding-help",
+            "#pcb-help",
+            "#adafruit-help",
+            "#show-off-your-ideas",
+            "#project-ideas"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/amulius___embedded_engineering__.webp",
+        "category": "Electrical",
+        "subcategory": "Microprocessors and Microcontrollers"
+    },
+    {
+        "name": "Raspberry Pi",
+        "invite_code": "https://discord.com/invite/bVVbSqQ",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#tech-talk",
+            "#i-need-help",
+            "#python-dev",
+            "#projects-chat",
+            "#project-showcase",
+            "#show-off-your-ideas",
+            "#project-ideas"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/raspberry_pi.webp",
+        "category": "Electrical",
+        "subcategory": "Microprocessors and Microcontrollers"
+    },
+    {
+        "name": "Adafruit",
+        "invite_code": "https://discord.com/invite/5FBsBHU",
+        "official": true,
+        "homepage": "https://www.adafruit.com/",
+        "git": "https://github.com/adafruit",
+        "notable_channels": [
+            "#circuitpython",
+            "#arduino",
+            "#3dprinting",
+            "#radio",
+            "#raspberry-pi",
+            "#wearables",
+            "#robotics",
+            "#help-with-projects",
+            "#iot",
+            "#events"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/adafruit.webp",
+        "category": "Electrical",
+        "subcategory": "DIY"
+    },
+    {
+        "name": "DIY Tech",
+        "invite_code": "https://discord.com/invite/diytech",
+        "official": false,
+        "homepage": "",
+        "git": "https://github.com/KazWolfe/HuskyBot",
+        "notable_channels": [
+            "#programming",
+            "#hardware-help",
+            "#software-help",
+            "#code-review",
+            "#project-showcase",
+            "#audio-tech",
+            "#retro-tech"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/diy_tech.webp",
+        "category": "Electrical",
+        "subcategory": "DIY"
+    },
+    {
+        "name": "/r/Home Automation",
+        "invite_code": "https://discord.com/invite/homeautomation",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/homeautomation/",
+        "git": "https://github.com/dgparker/rosie-the-bot",
+        "notable_channels": [
+            "#suggestions",
+            "#smartspeakers",
+            "#smarthub",
+            "#lighting",
+            "#security",
+            "#iot-dev",
+            "#buy-sell-trade"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/home_automation.webp",
+        "category": "Electrical",
+        "subcategory": "Internet of Things"
+    },
+    {
+        "name": "Home Assistant",
+        "invite_code": "https://discord.com/invite/c5DvZ4e",
+        "official": true,
+        "homepage": "https://www.home-assistant.io/",
+        "git": "https://github.com/home-assistant",
+        "notable_channels": [
+            "#homeassistant",
+            "#support",
+            "#automations",
+            "#frontend",
+            "#devices",
+            "#templates",
+            "#add-ons",
+            "#apps",
+            "#cameras",
+            "#diy",
+            "#node-red",
+            "#voice-assistants",
+            "#zigbee",
+            "#development"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/home_assistant.webp",
+        "category": "Electrical",
+        "subcategory": "Internet of Things"
+    },
+    {
+        "name": "Homebridge",
+        "invite_code": "https://discord.com/invite/Z8jmyvb",
+        "official": true,
+        "homepage": "https://homebridge.io/",
+        "git": "https://github.com/homebridge",
+        "notable_channels": [
+            "#general",
+            "#homekit",
+            "#ui",
+            "#config",
+            "#raspberry-pi",
+            "#raspbian-image",
+            "#macos",
+            "#bwindows",
+            "#docker",
+            "#verified-plugins",
+            "#plugins",
+            "#homebridge-beta-testing",
+            "#plugin-development"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/homebridge.webp",
+        "category": "Electrical",
+        "subcategory": "Internet of Things"
+    },
+    {
+        "name": "r/HomeKit",
+        "invite_code": "https://discord.com/invite/b2kTasd",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/HomeKit/",
+        "git": "",
+        "notable_channels": [
+            "#general",
+            "#homekit-discussion",
+            "#hk-showcase",
+            "#hk-questions-help",
+            "#homepod-discussion",
+            "#hp-questions-help",
+            "#homebridge-discussion",
+            "#hb-plugin-showcase"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/r_homekit.webp",
+        "category": "Electrical",
+        "subcategory": "Internet of Things"
+    },
+    {
+        "name": "AppDaemon",
+        "invite_code": "https://discord.com/invite/Mx5qafB",
+        "official": true,
+        "homepage": "",
+        "git": "https://github.com/hassio-addons/addon-appdaemon",
+        "notable_channels": [
+            "#appdaemon",
+            "#hadashboard"
+        ],
+        "language": [
+            "English",
+            "Deutsch",
+            "Nederlands \\"
+        ],
+        "icon": "images/server_icons/appdaemon.webp",
+        "category": "Electrical",
+        "subcategory": "IoT Applications"
+    },
+    {
+        "name": "deCONZ",
+        "invite_code": "https://discord.com/invite/QFhTxqN",
+        "official": true,
+        "homepage": "",
+        "git": "https://github.com/dresden-elektronik/deconz-rest-plugin",
+        "notable_channels": [
+            "#advice",
+            "#device-issues",
+            "#home-assisstant-issues",
+            "#setup-issues",
+            "#other-issues",
+            "#phoscon"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/deconz.webp",
+        "category": "Electrical",
+        "subcategory": "IoT Applications"
+    },
+    {
+        "name": "ESPHome",
+        "invite_code": "https://discord.com/invite/KhAMKrd",
+        "official": true,
+        "homepage": "https://esphome.io/",
+        "git": "https://github.com/esphome",
+        "notable_channels": [
+            "#general",
+            "#devs"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/esphome.webp",
+        "category": "Electrical",
+        "subcategory": "IoT Applications"
+    },
+    {
+        "name": "Tasmota",
+        "invite_code": "https://discord.com/invite/Ks2Kzd4",
+        "official": true,
+        "homepage": "https://tasmota.github.io/docs/",
+        "git": "https://github.com/arendst/tasmota",
+        "notable_channels": [
+            "#general",
+            "#issues",
+            "#3d-prints-and-cnc",
+            "#projects-gallery",
+            "#deals-and-promotions"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/tasmota.webp",
+        "category": "Electrical",
+        "subcategory": "IoT Applications"
+    },
+    {
+        "name": "zigbee2mqtt",
+        "invite_code": "https://discord.com/invite/NyseBeK",
+        "official": true,
+        "homepage": "https://www.zigbee2mqtt.io/",
+        "git": "https://github.com/koenkk/zigbee2mqtt",
+        "notable_channels": [
+            "#release-branch",
+            "#development-branch",
+            "#installation-hassio",
+            "#installation-docker",
+            "#zigbee2mqtt",
+            "#zigbee-shepherd",
+            "#documentation",
+            "#hardware"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/zigbee2mqtt.webp",
+        "category": "Electrical",
+        "subcategory": "IoT Applications"
+    },
+    {
+        "name": "Dave2D",
+        "invite_code": "https://discord.com/invite/dave2d",
+        "official": true,
+        "homepage": "https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw",
+        "git": "",
+        "notable_channels": [
+            "#projects",
+            "#tools-and-parts",
+            "#networking",
+            "#automotive",
+            "#solar-energy",
+            "#beginners-area",
+            "#diy-arduino-rpi-stm32",
+            "#laptops",
+            "#pc-repair",
+            "#phones",
+            "#consoles",
+            "#tablets"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/dave2d.webp",
+        "category": "Hardware",
+        "subcategory": ""
+    },
+    {
+        "name": "LTT Official",
+        "invite_code": "https://discord.com/invite/ltt",
+        "official": true,
+        "homepage": "https://www.youtube.com/user/LinusTechTips",
+        "git": "",
+        "notable_channels": [
+            "#tech-chat",
+            "#tech-support",
+            "#my-rig",
+            "#overcloaking",
+            "#creative",
+            "#development",
+            "#crypto-currency",
+            "#networking",
+            "#audio",
+            "#vr"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/ltt_official.webp",
+        "category": "Hardware",
+        "subcategory": ""
+    },
+    {
+        "name": "Monitor Enthusiasts",
+        "invite_code": "https://discord.com/invite/MZwg5cQ",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/Monitors/",
+        "git": "https://github.com/DWF967/MonitorBot",
+        "notable_channels": [
+            "#monitors-discussion",
+            "#ultrawide-discussion",
+            "#mounts-and-desks",
+            "#help",
+            "#setups-and-battlestations"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/monitor_enthusiasts.webp",
+        "category": "Hardware",
+        "subcategory": ""
+    },
+    {
+        "name": "PC MASTER RACE",
+        "invite_code": "https://discord.com/invite/pcmr",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/pcmasterrace/",
+        "git": "https://github.com/izy521/Sera-PCMR",
+        "notable_channels": [
+            "#build-help",
+            "#tech-support",
+            "#overclocking",
+            "#programming",
+            "#linux",
+            "#mac-os",
+            "#content-sharing"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/pc_master_race.webp",
+        "category": "Hardware",
+        "subcategory": ""
+    },
+    {
+        "name": "Xiaomi Community",
+        "invite_code": "https://discord.com/invite/xiaomi",
+        "official": true,
+        "homepage": "",
+        "git": "https://github.com/XiaomiWiki",
+        "notable_channels": [
+            "#mi_a_series",
+            "#mi_mix_series",
+            "#mi_max_series",
+            "#mi_note_series",
+            "#mi_series",
+            "#redmi_k_series",
+            "#redmi_series",
+            "#poco_series",
+            "#mi_wearables",
+            "#mi_notebook",
+            "#mi_pad"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/xiaomi_community.webp",
+        "category": "Hardware",
+        "subcategory": "Phones"
+    },
+    {
+        "name": "r/GooglePixel",
+        "invite_code": "https://discord.com/invite/googlepixel",
+        "official": true,
+        "homepage": "https://www.reddit.com/r/GooglePixel/",
+        "git": "",
+        "notable_channels": [
+            "#tech-support",
+            "#pixelography",
+            "#themes"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/r_googlepixel.webp",
+        "category": "Hardware",
+        "subcategory": "Phones"
+    },
+    {
+        "name": "r/iPhone",
+        "invite_code": "https://discord.com/invite/iphone",
+        "official": true,
+        "homepage": "https://iphonediscord.info",
+        "git": "",
+        "notable_channels": [
+            "#ios-beta",
+            "#what-should-i-buy",
+            "#jailbreak",
+            "#dev",
+            "#software-support",
+            "#hardware-support",
+            "#homescreen"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "",
+        "category": "Hardware",
+        "subcategory": "Phones"
+    },
+    {
+        "name": "r/oneplus",
+        "invite_code": "https://discord.com/invite/oneplus",
+        "official": true,
+        "homepage": "https://www.reddit.com/r/iphone/",
+        "git": "https://github.com/Rithari/OnePlusBot",
+        "notable_channels": [
+            "#oneplus",
+            "#oneplus-n10-n100",
+            "#oneplus8t",
+            "#oneplus-nord",
+            "#oneplus8-series",
+            "#oneplus7t-series",
+            "#oneplus7-series",
+            "#oneplus6-6t",
+            "#legacy",
+            "#accessories"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/r_oneplus.webp",
+        "category": "Hardware",
+        "subcategory": "Phones"
+    },
+    {
+        "name": "r/Samsung",
+        "invite_code": "https://discord.com/invite/qWUgeUk",
+        "official": true,
+        "homepage": "https://www.reddit.com/r/samsung/",
+        "git": "",
+        "notable_channels": [
+            "#samsung",
+            "#purchase-advice",
+            "#accessories",
+            "#roms",
+            "#support"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/r_samsung.webp",
+        "category": "Hardware",
+        "subcategory": "Phones"
+    },
+    {
+        "name": "Fitbit",
+        "invite_code": "https://discord.com/invite/4ujeheG",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#fitbit",
+            "#fitbit-coding",
+            "#fitbit-design",
+            "#fitbit-animation",
+            "#fitbit-widgets",
+            "#fitbit-typescript"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/fitbit.webp",
+        "category": "Hardware",
+        "subcategory": "Smartwatches"
+    },
+    {
+        "name": "The Rebble Alliance",
+        "invite_code": "https://discord.com/invite/aRUAYFN",
+        "official": true,
+        "homepage": "https://rebble.io/",
+        "git": "https://github.com/pebble-dev",
+        "notable_channels": [
+            "#pebble",
+            "#rebble-help",
+            "#app-dev",
+            "#rockyjs",
+            "#smartstraps",
+            "#rebble-grants",
+            "#firmware",
+            "#hardware",
+            "#mobile-apps",
+            "#appstore",
+            "#web-services",
+            "#bipdev"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/the_rebble_alliance.webp",
+        "category": "Hardware",
+        "subcategory": "Smartwatches"
+    },
+    {
+        "name": "Smartwatch",
+        "invite_code": "https://discord.com/invite/nPEHdsyjDg",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#general",
+            "#support",
+            "#purchase-advice",
+            "#showcase",
+            "#activity",
+            "#smartwatch-by-brands"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/smartwatch.webp",
+        "category": "Hardware",
+        "subcategory": "Smartwatches"
+    },
+    {
+        "name": "QMK",
+        "invite_code": "https://discord.com/invite/Uq7gcHh",
+        "official": true,
+        "homepage": "https://qmk.fm/",
+        "git": "https://github.com/qmk",
+        "notable_channels": [
+            "#help",
+            "#firmware",
+            "#cli",
+            "#configurator",
+            "#via",
+            "#toolbox",
+            "#webhooks",
+            "#configurator_log",
+            "#hardware",
+            "#ergonomics",
+            "#programming"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/qmk.webp",
+        "category": "Hardware",
+        "subcategory": "Keyboards"
+    },
+    {
+        "name": "AmigaDev",
+        "invite_code": "https://discord.com/invite/Dfba7Yb",
+        "official": true,
+        "homepage": "https://www.amigadev.com/",
+        "git": "https://github.com/AmigaPorts",
+        "notable_channels": [
+            "#ace",
+            "#milkytracker",
+            "#sdl",
+            "#website",
+            "#scummvm",
+            "#68k-arm",
+            "#python",
+            "#arexx",
+            "#amos",
+            "#c-and-cpp",
+            "#amiga-68k",
+            "#amiga-ppc",
+            "#aros",
+            "#morphos",
+            "#warpos-sonnet",
+            "#vbcc"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/amigadev.webp",
+        "category": "Hardware",
+        "subcategory": "Retro Computers"
+    },
+    {
+        "name": "Official Commodore 64",
+        "invite_code": "https://discord.com/invite/trDvARJ",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#general",
+            "#hardware",
+            "#emulation",
+            "#programming",
+            "#support",
+            "#other-commodore-machines",
+            "#other-classic-computers"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/official_commodore_64.webp",
+        "category": "Hardware",
+        "subcategory": "Retro Computers"
+    },
+    {
+        "name": "Official Commodore Amiga",
+        "invite_code": "https://discord.com/invite/TPpQv2H",
+        "official": true,
+        "homepage": "https://forum.amiga.org",
+        "git": "",
+        "notable_channels": [
+            "#general",
+            "#amigashell",
+            "#next-gen",
+            "#emulation-and-fpga",
+            "#hardware",
+            "#multimedia",
+            "#coding",
+            "#accessory-port"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/official_commodore_amiga.webp",
+        "category": "Hardware",
+        "subcategory": "Retro Computers"
+    },
+    {
+        "name": "Programming Language Development",
+        "invite_code": "https://discord.com/invite/HDyqM2n",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#langdev",
+            "#programming",
+            "#projects",
+            "#resources"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/programming_language_development.webp",
+        "category": "Programming Languages",
+        "subcategory": ""
+    },
+    {
+        "name": "Functional Programming",
+        "invite_code": "https://discord.com/invite/K6XHBSh",
+        "official": false,
+        "homepage": "",
+        "git": "https://github.com/mniip/discord-eval",
+        "notable_channels": [
+            "#haskell",
+            "#tooling",
+            "#lisp-beginners",
+            "#clojure",
+            "#dependent-types",
+            "#agda",
+            "#coq",
+            "#idris #compilers",
+            "#scala",
+            "#elm",
+            "#f-sharp",
+            "#elixir",
+            "#purescript",
+            "#type-theory"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/functional_programming.webp",
+        "category": "Programming Languages",
+        "subcategory": "Language Paradigms"
+    },
+    {
+        "name": "Low-Level Programming",
+        "invite_code": "https://discord.com/invite/5ssDFZS",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#rust",
+            "#assembly",
+            "#c-lang",
+            "#c-cpp",
+            "#wasm",
+            "#compilers",
+            "#embedded",
+            "#game-dev",
+            "#hardware #linux",
+            "#os-development"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/low_level_programming.webp",
+        "category": "Programming Languages",
+        "subcategory": "Language Paradigms"
+    },
+    {
+        "name": "Assemblers Assemble",
+        "invite_code": "https://discord.com/invite/Km5VzKj",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#assembly",
+            "#c-language",
+            "#gpu",
+            "#audio",
+            "#build-systems",
+            "#cpp",
+            "#embedded",
+            "#learning",
+            "#security #conferences",
+            "#tooling",
+            "#2d-graphics",
+            "#clion",
+            "#catch2",
+            "#qt"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/assemblers_assemble.webp",
+        "category": "Programming Languages",
+        "subcategory": "Assembly"
+    },
+    {
+        "name": "C++ Help",
+        "invite_code": "https://discord.com/invite/J5hBe8F",
+        "official": false,
+        "homepage": "",
+        "git": "https://github.com/Eelis/geordi",
+        "notable_channels": [
+            "#cpp-questions",
+            "#help",
+            "#advanced",
+            "#gamedev",
+            "#project-showcase"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/c_plus_plus_help.webp",
+        "category": "Programming Languages",
+        "subcategory": "C and C++"
+    },
+    {
+        "name": "Together C & C++",
+        "invite_code": "https://discord.com/invite/vnyVmAE",
+        "official": false,
+        "homepage": "",
+        "git": "https://github.com/Headline/discord-compiler-bot",
+        "notable_channels": [
+            "#c_general",
+            "#cpp_general",
+            "#assembly",
+            "#code_review",
+            "#gamedev",
+            "#graphics",
+            "#audio",
+            "#programming_environment",
+            "#collaboration",
+            "#unix",
+            "#other_langs_help",
+            "#math"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/together_c_and_c_plus_plus.webp",
+        "category": "Programming Languages",
+        "subcategory": "C and C++"
+    },
+    {
+        "name": "C#",
+        "invite_code": "https://discord.com/invite/csharp",
+        "official": false,
+        "homepage": "http://discord-csharp.github.io/",
+        "git": "https://github.com/discord-csharp",
+        "notable_channels": [
+            "#projects",
+            "#mentors",
+            "#learning-discussion",
+            "#questions",
+            "#architecture",
+            "#code-review",
+            "#web",
+            "#python",
+            "#ui-ux"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/c_sharp.webp",
+        "category": "Programming Languages",
+        "subcategory": "C#"
+    },
+    {
+        "name": "Entitas",
+        "invite_code": "https://discord.com/invite/uHrVx5Z",
+        "official": true,
+        "homepage": "https://twitter.com/entitas_csharp",
+        "git": "https://github.com/sschmid/Entitas-CSharp",
+        "notable_channels": [
+            "#general",
+            "#showcase",
+            "#variants",
+            "#unity"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/entitas.webp",
+        "category": "Programming Languages",
+        "subcategory": "C#"
+    },
+    {
+        "name": "opentk",
+        "invite_code": "https://discord.com/invite/6HqD48s",
+        "official": true,
+        "homepage": "https://opentk.net/",
+        "git": "https://github.com/opentk",
+        "notable_channels": [
+            "#general",
+            "#support",
+            "#development",
+            "#showcase",
+            "#showcase-discussion"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/opentk.webp",
+        "category": "Programming Languages",
+        "subcategory": "C#"
+    },
+    {
+        "name": "Clojurians",
+        "invite_code": "https://discord.com/invite/v9QMy9D",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#new-to-css",
+            "#intermediate-users",
+            "#blog-posts",
+            "#less",
+            "#sass",
+            "#scss",
+            "#native-css-feature",
+            "#tailwind"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/clojurians.webp",
+        "category": "Programming Languages",
+        "subcategory": "Clojure"
+    },
+    {
+        "name": "Tailwind CSS",
+        "invite_code": "https://discord.com/invite/7NF8GNe",
+        "official": true,
+        "homepage": "https://tailwindcss.com/",
+        "git": "https://github.com/tailwindcss",
+        "notable_channels": [
+            "#help",
+            "#tailwind-css",
+            "#core-dev",
+            "#plugins",
+            "#docs",
+            "#tailwind-ui",
+            "#design",
+            "#development",
+            "#showcase"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/tailwind_css.webp",
+        "category": "Programming Languages",
+        "subcategory": "CSS"
+    },
+    {
+        "name": "Elixir Language",
+        "invite_code": "https://discord.com/invite/elixir",
+        "official": true,
+        "homepage": "https://elixir-lang.org/",
+        "git": "https://github.com/elixir-lang",
+        "notable_channels": [
+            "#elixir",
+            "#erlang",
+            "#ecto",
+            "#nerves",
+            "#phoenix",
+            "#absinthe",
+            "#alchemy",
+            "#frontend",
+            "#jobs"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/elixir_language.webp",
+        "category": "Programming Languages",
+        "subcategory": "Elixir"
+    },
+    {
+        "name": "Discord Gophers",
+        "invite_code": "https://discord.com/invite/PxwHvBS",
+        "official": false,
+        "homepage": "",
+        "git": "https://github.com/bwmarrin/discordgo",
+        "notable_channels": [
+            "#golang",
+            "#job-market-only",
+            "#go-art-only",
+            "#go-news-only",
+            "#discordgo",
+            "#disgord",
+            "#dca",
+            "#arikawa"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/discord_gophers.webp",
+        "category": "Programming Languages",
+        "subcategory": "Go"
+    },
+    {
+        "name": "Haxe",
+        "invite_code": "https://discord.com/invite/0uEuWH3spjck73Lo",
+        "official": true,
+        "homepage": "https://haxe.org/",
+        "git": "https://github.com/HaxeFoundation",
+        "notable_channels": [
+            "#geek-speak",
+            "#java-help",
+            "#android-help",
+            "#framework-help",
+            "#c_cpp_help",
+            "#algorithms_help",
+            "#architecture-help",
+            "#code_review",
+            "#ui_ux_help"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/haxe.webp",
+        "category": "Programming Languages",
+        "subcategory": "Haxe"
+    },
+    {
+        "name": "Deno",
+        "invite_code": "https://discord.com/invite/deno",
+        "official": true,
+        "homepage": "https://deno.land/",
+        "git": "https://github.com/denoland",
+        "notable_channels": [
+            "#general",
+            "#showcase",
+            "#help",
+            "#dev",
+            "#rust-libs"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/deno.webp",
+        "category": "Programming Languages",
+        "subcategory": "JavaScript"
+    },
+    {
+        "name": "electron",
+        "invite_code": "https://discord.com/invite/electron",
+        "official": true,
+        "homepage": "https://electronjs.org",
+        "git": "https://github.com/electron",
+        "notable_channels": [
+            "#general",
+            "#help",
+            "#electron-builder",
+            "#electron-forge",
+            "#electron-packager",
+            "#fiddle",
+            "#security",
+            "#reactjs",
+            "#vuejs",
+            "#jobs",
+            "#projects"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/electron.webp",
+        "category": "Programming Languages",
+        "subcategory": "JavaScript"
+    },
+    {
+        "name": "ESLint",
+        "invite_code": "https://discord.com/invite/8szcydm",
+        "official": true,
+        "homepage": "https://eslint.org/",
+        "git": "https://github.com/eslint",
+        "notable_channels": [
+            "#tsc-meetings",
+            "#general",
+            "#help",
+            "#lookwhatimade",
+            "#developers",
+            "#season-of-docs"
+        ],
+        "language": [
+            "English",
+            "日本語 \\"
+        ],
+        "icon": "images/server_icons/eslint.webp",
+        "category": "Programming Languages",
+        "subcategory": "JavaScript"
+    },
+    {
+        "name": "JS Programming Language Community",
+        "invite_code": "https://discord.com/invite/Y8Mqbkk",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#general",
+            "#beginners",
+            "#nodejs",
+            "#web-dom",
+            "#react",
+            "#vue",
+            "#gatsby",
+            "#webassembly"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/js_programming_language_community.webp",
+        "category": "Programming Languages",
+        "subcategory": "JavaScript"
+    },
+    {
+        "name": "ReasonML",
+        "invite_code": "https://discord.com/invite/reasonml",
+        "official": true,
+        "homepage": "https://reasonml.github.io/en/",
+        "git": "https://github.com/facebook/reason",
+        "notable_channels": [
+            "#general",
+            "#reasonconf",
+            "#native-development",
+            "#bucklescript",
+            "#job-openings",
+            "#react",
+            "#ocaml",
+            "#reason-dojo",
+            "#reason-core-dev"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/reasonml.webp",
+        "category": "Programming Languages",
+        "subcategory": "JavaScript"
+    },
+    {
+        "name": "SpeakJS",
+        "invite_code": "https://discord.com/invite/dAF4F28",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#collaboration",
+            "#code-review",
+            "#help",
+            "#react",
+            "#angular",
+            "#vue",
+            "#svelte",
+            "#jquery",
+            "#gatsby",
+            "#node",
+            "#graphql",
+            "#electron",
+            "#threejs",
+            "#webgl"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/speakjs.webp",
+        "category": "Programming Languages",
+        "subcategory": "JavaScript"
+    },
+    {
+        "name": "Lisp",
+        "invite_code": "https://discord.com/invite/hhk46CE",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#clojure",
+            "#common-lisp",
+            "#emacs-lisp",
+            "#racket",
+            "#scheme",
+            "#lisp-gamedev",
+            "#beginner-questions",
+            "#algorithms",
+            "#compiler-theory"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/lisp.webp",
+        "category": "Programming Languages",
+        "subcategory": "Lisp"
+    },
+    {
+        "name": "Lua Scripters",
+        "invite_code": "https://discord.com/invite/7wu7ZsW",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#scripting",
+            "#creations",
+            "#roblox",
+            "#gmod",
+            "#wow",
+            "#fivem",
+            "#luajit",
+            "#lua-c",
+            "#terra"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/lua_scripters.webp",
+        "category": "Programming Languages",
+        "subcategory": "Lua"
+    },
+    {
+        "name": "Luvit.io",
+        "invite_code": "https://discord.com/invite/luvit",
+        "official": true,
+        "homepage": "https://luvit.io/",
+        "git": "https://github.com/luvit/luvit",
+        "notable_channels": [
+            "#general",
+            "#lua",
+            "#luvit",
+            "#luvi",
+            "#luv",
+            "#lit"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/luvit_io.webp",
+        "category": "Programming Languages",
+        "subcategory": "Lua"
+    },
+    {
+        "name": "Flarum",
+        "invite_code": "https://discord.com/invite/3fnPSjA",
+        "official": true,
+        "homepage": "https://flarum.org/",
+        "git": "https://github.com/flarum",
+        "notable_channels": [
+            "#chitchat",
+            "#support",
+            "#extensions",
+            "#extend",
+            "#internals",
+            "#docs"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/flarum.webp",
+        "category": "Programming Languages",
+        "subcategory": "PHP"
+    },
+    {
+        "name": "Grav",
+        "invite_code": "https://discord.com/invite/5VhYVkR",
+        "official": true,
+        "homepage": "https://getgrav.org/",
+        "git": "https://github.com/getgrav",
+        "notable_channels": [
+            "#general",
+            "#theming",
+            "#development",
+            "#documentation",
+            "#plugin-requests",
+            "#social",
+            "#testing"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/grav.webp",
+        "category": "Programming Languages",
+        "subcategory": "PHP"
+    },
+    {
+        "name": "Laravel",
+        "invite_code": "https://discord.com/invite/mPZNm7A",
+        "official": true,
+        "homepage": "https://laravel.com/",
+        "git": "https://github.com/laravel",
+        "notable_channels": [
+            "#general",
+            "#cashier",
+            "#envoyer",
+            "#forge",
+            "#help",
+            "#homestead",
+            "#horizon",
+            "#hype",
+            "#internals",
+            "#lumen",
+            "#meetups",
+            "#nova",
+            "#passport",
+            "#jobs"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/laravel.webp",
+        "category": "Programming Languages",
+        "subcategory": "PHP"
+    },
+    {
+        "name": "Tenancy",
+        "invite_code": "https://discord.com/invite/4amsQJ7",
+        "official": true,
+        "homepage": "https://tenancy.dev/",
+        "git": "https://github.com/tenancy",
+        "notable_channels": [
+            "#brewery",
+            "#coding",
+            "#support",
+            "#internals",
+            "#multi-tenant-support"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/tenancy.webp",
+        "category": "Programming Languages",
+        "subcategory": "PHP"
+    },
+    {
+        "name": "microsoft-python",
+        "invite_code": "https://discord.com/invite/b8YJQPx",
+        "official": true,
+        "homepage": "https://twitter.com/pythonvscode",
+        "git": "https://github.com/microsoft/vscode-python",
+        "notable_channels": [
+            "#python-virtual-labs",
+            "#azure",
+            "#data-science",
+            "#iot",
+            "#postgres",
+            "#vscode"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/microsoft-python.webp",
+        "category": "Programming Languages",
+        "subcategory": "Python"
+    },
+    {
+        "name": "Python",
+        "invite_code": "https://discord.com/invite/python",
+        "official": true,
+        "homepage": "https://pythondiscord.com/",
+        "git": "https://github.com/python-discord/",
+        "notable_channels": [
+            "#python-discussion",
+            "#careers",
+            "#help",
+            "#async",
+            "#computer-science",
+            "#database",
+            "#data-science",
+            "#dev-ops",
+            "#discord-py",
+            "#game-development",
+            "#security",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/python.webp",
+        "category": "Programming Languages",
+        "subcategory": "Python"
+    },
+    {
+        "name": "Kivy",
+        "invite_code": "https://discord.com/invite/djPtTRJ",
+        "official": true,
+        "homepage": "https://kivy.org/",
+        "git": "https://github.com/kivy",
+        "notable_channels": [
+            "#general",
+            "#support",
+            "#your-projects",
+            "#dev",
+            "#python-for-android"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/kivy.webp",
+        "category": "Programming Languages",
+        "subcategory": "Python"
+    },
+    {
+        "name": "KivyMD",
+        "invite_code": "https://discord.com/invite/wu3qBST",
+        "official": true,
+        "homepage": "https://www.youtube.com/channel/UCl72hvzwQ0rXUMBKTsKjRAA",
+        "git": "https://github.com/HeaTTheatR/KivyMD",
+        "notable_channels": [
+            "#general",
+            "#support",
+            "#suggestions-for-improvements",
+            "#users-gallery",
+            "#kivymd-studio"
+        ],
+        "language": [
+            "English",
+            "русский \\"
+        ],
+        "icon": "images/server_icons/kivymd.webp",
+        "category": "Programming Languages",
+        "subcategory": "Python"
+    },
+    {
+        "name": "Ruby",
+        "invite_code": "https://discord.com/invite/KbDHDez",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#beginners-chat",
+            "#project-ideas",
+            "#help",
+            "#devops",
+            "#code-review",
+            "#frontend",
+            "#backend",
+            "#rails",
+            "#sinatra"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/ruby.webp",
+        "category": "Programming Languages",
+        "subcategory": "Ruby"
+    },
+    {
+        "name": "Ärorust",
+        "invite_code": "https://discord.com/invite/RXNsMXc",
+        "official": false,
+        "homepage": "https://twitter.com/AeroRust",
+        "git": "https://github.com/AeroRust",
+        "notable_channels": [
+            "#resources",
+            "#drones",
+            "#space",
+            "#general-aviation",
+            "#rtos",
+            "#osal",
+            "#splice",
+            "#godwit",
+            "#ideas",
+            "#books",
+            "#conferences"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/arorust.webp",
+        "category": "Programming Languages",
+        "subcategory": "Rust"
+    },
+    {
+        "name": "Rust Programming Language Community Server",
+        "invite_code": "https://discord.com/invite/aVESxV8",
+        "official": false,
+        "homepage": "",
+        "git": "https://github.com/ivandardi/RustBot",
+        "notable_channels": [
+            "#beginners",
+            "#code-review",
+            "#dev-tools",
+            "#black-magic",
+            "#macros",
+            "#async",
+            "#crypto-and-security",
+            "#games-and-graphics",
+            "#lang-dev",
+            "#net-and-web",
+            "#os-dev"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/rust_programming_language_community_server.webp",
+        "category": "Programming Languages",
+        "subcategory": "Rust"
+    },
+    {
+        "name": "Tauri Apps",
+        "invite_code": "https://discord.com/invite/SpmNs4S",
+        "official": true,
+        "homepage": "https://tauri.studio",
+        "git": "https://github.com/tauri-apps",
+        "notable_channels": [
+            "#webview",
+            "#didathing",
+            "#help",
+            "#gamedevs",
+            "#app-devs",
+            "#vue-cli-plugin",
+            "#testing-core",
+            "#documentation",
+            "#community-projects",
+            "#working-groups",
+            "#cli-node",
+            "#core-rust"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/tauri_apps.webp",
+        "category": "Programming Languages",
+        "subcategory": "Rust"
+    },
+    {
+        "name": "The Rust Programming Language",
+        "invite_code": "https://discord.com/invite/rust-lang",
+        "official": true,
+        "homepage": "https://www.rust-lang.org/",
+        "git": "https://github.com/rust-lang",
+        "notable_channels": [
+            "#beginners",
+            "#contribute",
+            "#community-team",
+            "#rustbridge",
+            "#design",
+            "#compiler",
+            "#wg-grammar",
+            "#wg-async-foundation",
+            "#type-theory",
+            "#wg-wasm",
+            "#wg-gamedev",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/the_rust_programming_language.webp",
+        "category": "Programming Languages",
+        "subcategory": "Rust"
+    },
+    {
+        "name": "Tokio",
+        "invite_code": "https://discord.com/invite/tokio",
+        "official": true,
+        "homepage": "https://tokio.rs/",
+        "git": "https://github.com/tokio-rs",
+        "notable_channels": [
+            "#tokio-users",
+            "#tokio-dev",
+            "#tokio-docs",
+            "#ecosystem",
+            "#butte",
+            "#hyper",
+            "#h3",
+            "#kube",
+            "#mio",
+            "#prost",
+            "#reqwest",
+            "#tonic",
+            "#tower",
+            "#tracing",
+            "#warp",
+            "#loom",
+            "#rdbc",
+            "#metrics"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/tokio.webp",
+        "category": "Programming Languages",
+        "subcategory": "Rust"
+    },
+    {
+        "name": "Scala",
+        "invite_code": "https://discord.com/invite/scala",
+        "official": true,
+        "homepage": "https://www.scala-lang.org/",
+        "git": "https://github.com/scala",
+        "notable_channels": [
+            "#scala-users",
+            "#scala-contributors",
+            "#scala-js",
+            "#scala-native",
+            "#tooling",
+            "#events",
+            "#jobs",
+            "#akka-users"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/scala.webp",
+        "category": "Programming Languages",
+        "subcategory": "Scala"
+    },
+    {
+        "name": "Swift",
+        "invite_code": "https://discord.com/invite/0uZpB8GgRvoU12Ta",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#wwdc",
+            "#general",
+            "#swift",
+            "#swiftui",
+            "#firebase",
+            "#xcode",
+            "#general-ios",
+            "#general-macos",
+            "#general-watchos",
+            "#interview"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/swift.webp",
+        "category": "Programming Languages",
+        "subcategory": "Swift"
+    },
+    {
+        "name": "TypeScript Community",
+        "invite_code": "https://discord.com/invite/typescript",
+        "official": true,
+        "homepage": "https://www.typescriptlang.org/",
+        "git": "https://github.com/typescript-community",
+        "notable_channels": [
+            "#ts-discussion",
+            "#help",
+            "#vue",
+            "#angular",
+            "#react",
+            "#language-design",
+            "#compiler",
+            "#architecture",
+            "#tooling",
+            "#devops",
+            "#site-localization",
+            "#deno",
+            "#meetups",
+            "#projects"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/typescript_community.webp",
+        "category": "Programming Languages",
+        "subcategory": "TypeScript"
+    },
+    {
+        "name": "The V Language & Apps",
+        "invite_code": "https://discord.com/invite/vlang",
+        "official": true,
+        "homepage": "https://vlang.io/",
+        "git": "https://github.com/vlang",
+        "notable_channels": [
+            "#v-development",
+            "#v-chat",
+            "#help",
+            "#bugs",
+            "#syntax",
+            "#ideas-and-suggestions",
+            "#documentation",
+            "#js-backend",
+            "#x64-backend",
+            "#v-ui",
+            "#volt",
+            "#gitly",
+            "#vid",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English",
+            "Deutsch",
+            "français",
+            "中文",
+            "español",
+            "日本語",
+            "dansk",
+            "한국어",
+            "português",
+            "polski",
+            "русский",
+            "tiếng-việt",
+            "italiano"
+        ],
+        "icon": "images/server_icons/the_v_language_and_apps.webp",
+        "category": "Programming Languages",
+        "subcategory": "V"
+    },
+    {
+        "name": "AssemblyScript",
+        "invite_code": "https://discord.com/invite/assemblyscript",
+        "official": true,
+        "homepage": "https://www.assemblyscript.org/",
+        "git": "https://github.com/AssemblyScript",
+        "notable_channels": [
+            "#general",
+            "#help",
+            "#built-with-assemblyscript",
+            "#development",
+            "#community-group",
+            "#as-pect"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/assemblyscript.webp",
+        "category": "Programming Languages",
+        "subcategory": "WebAssembly"
+    },
+    {
+        "name": "WebAssembly",
+        "invite_code": "https://discord.com/invite/53u3EKq",
+        "official": false,
+        "homepage": "",
+        "git": "https://github.com/WebAssembly",
+        "notable_channels": [
+            "#general",
+            "#beginners",
+            "#cg",
+            "#jobs",
+            "#events",
+            "#summit",
+            "#wasm",
+            "#wasi",
+            "#web",
+            "#standalone",
+            "#generic",
+            "#emscripten",
+            "#javascript",
+            "#rust",
+            "#go"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/webassembly.webp",
+        "category": "Programming Languages",
+        "subcategory": "WebAssembly"
+    },
+    {
+        "name": "Docusaurus",
+        "invite_code": "https://discord.com/invite/docusaurus",
+        "official": true,
+        "homepage": "https://v2.docusaurus.io/",
+        "git": "https://github.com/facebook/Docusaurus",
+        "notable_channels": [
+            "#ember-jobs",
+            "#help",
+            "#ember-clie",
+            "#ember-data",
+            "#topic-a11y",
+            "#topic-addon-development",
+            "#topic-backend",
+            "#dev-meta",
+            "#dev-ember-learning",
+            "#ember-addons",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English",
+            "français",
+            "Deutsch",
+            "português",
+            "pусский",
+            "español"
+        ],
+        "icon": "images/server_icons/docusaurus.webp",
+        "category": "Web Development",
+        "subcategory": "Web Frameworks"
+    },
+    {
+        "name": "FastAPI",
+        "invite_code": "https://discord.com/invite/VQjSZaeJmf",
+        "official": true,
+        "homepage": "https://fastapi.tiangolo.com/",
+        "git": "https://github.com/tiangolo/fastapi",
+        "notable_channels": [
+            "#discussion",
+            "#documentation",
+            "#advanced-questions",
+            "#articles-videos-podcasts",
+            "#showcase"
+        ],
+        "language": [
+            "English",
+            "español",
+            "中文",
+            "русский",
+            "português",
+            "italiano",
+            "Türkçe",
+            "Українська \\"
+        ],
+        "icon": "images/server_icons/fastapi.webp",
+        "category": "Web Development",
+        "subcategory": "Web Frameworks"
+    },
+    {
+        "name": "Fomantic-UI",
+        "invite_code": "https://discord.com/invite/UgzHNZF",
+        "official": true,
+        "homepage": "https://fomantic-ui.com",
+        "git": "https://github.com/fomantic",
+        "notable_channels": [
+            "#svelte",
+            "#support",
+            "#sapper",
+            "#examples",
+            "#updates",
+            "#meetups",
+            "#future",
+            "#showcase",
+            "#nativedev",
+            "#internals",
+            "#gl",
+            "#jobs",
+            "#language-tools",
+            "#sveltesocietyday2020"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/fomantic-ui.webp",
+        "category": "Web Development",
+        "subcategory": "Web Frameworks"
+    },
+    {
+        "name": "UIkit",
+        "invite_code": "https://discord.com/invite/NEt4Pv7",
+        "official": true,
+        "homepage": "https://getuikit.com/",
+        "git": "https://github.com/uikit",
+        "notable_channels": [
+            "#general",
+            "#i-made-this",
+            "#ideas",
+            "#uikit-4",
+            "#development",
+            "#html-css",
+            "#less",
+            "#js",
+            "#documentation"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/uikit.webp",
+        "category": "Web Development",
+        "subcategory": "Web Frameworks"
+    },
+    {
+        "name": "VAPOR",
+        "invite_code": "https://discord.com/invite/vapor",
+        "official": true,
+        "homepage": "https://vapor.codes/",
+        "git": "https://github.com/vapor/vapor",
+        "notable_channels": [
+            "#proposals",
+            "#articles",
+            "#showcase",
+            "#general-v5",
+            "#auth",
+            "#database",
+            "#deploy",
+            "#testing",
+            "#validation",
+            "#view",
+            "#websocket"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/vapor.webp",
+        "category": "Web Development",
+        "subcategory": "Web Frameworks"
+    },
+    {
+        "name": "NestJS",
+        "invite_code": "https://discord.com/invite/G7Qnnhy",
+        "official": true,
+        "homepage": "https://nestjs.com/",
+        "git": "https://github.com/nestjs",
+        "notable_channels": [
+            "#support",
+            "#nestjs-core",
+            "#nestjs-config",
+            "#nestjs-graphql",
+            "#nestjs-mongoose",
+            "#nestjs-swagger",
+            "#nestjs-testing",
+            "#nestjs-typeform",
+            "#nestjs-cli",
+            "#internals"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/nestjs.webp",
+        "category": "Web Development",
+        "subcategory": "Node.js"
+    },
+    {
+        "name": "NodeCG",
+        "invite_code": "https://discord.com/invite/GJ4r8a8",
+        "official": true,
+        "homepage": "https://nodecg.com/",
+        "git": "https://github.com/nodecg",
+        "notable_channels": [
+            "#bundle-dev",
+            "#core-dev",
+            "#design",
+            "#typescript",
+            "#polymer",
+            "#vue",
+            "#react",
+            "#general",
+            "#post-your-work",
+            "#looking-for-dev"
+        ],
+        "language": [
+            "English",
+            "日本語"
+        ],
+        "icon": "images/server_icons/nodecg.webp",
+        "category": "Web Development",
+        "subcategory": "Node.js"
+    },
+    {
+        "name": "Nodeiflux",
+        "invite_code": "https://discord.com/invite/vUsrbjd",
+        "official": true,
+        "homepage": "https://nodejs.org/en/",
+        "git": "https://github.com/nodejs",
+        "notable_channels": [
+            "#general",
+            "#need-help",
+            "#i-made-this",
+            "#news-and-links",
+            "#libraries",
+            "#ops",
+            "#react",
+            "#jobs"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/nodeiflux.webp",
+        "category": "Web Development",
+        "subcategory": "Node.js"
+    },
+    {
+        "name": "Blitz.js",
+        "invite_code": "https://discord.com/invite/epMSc7Mpvt",
+        "official": true,
+        "homepage": "https://blitzjs.com/",
+        "git": "https://github.com/blitz-js",
+        "notable_channels": [
+            "#general",
+            "#help",
+            "#showcase",
+            "#development",
+            "#starter-kits",
+            "#jobs",
+            "#graphql",
+            "#vuejs",
+            "#data-sourcing",
+            "#markdown",
+            "#drupal",
+            "#craft-cms",
+            "#dato-cms",
+            "#cockpit-cms"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/blitz_js.webp",
+        "category": "Web Development",
+        "subcategory": "React.js"
+    },
+    {
+        "name": "Invertase OSS",
+        "invite_code": "https://discord.com/invite/C9aK28N",
+        "official": true,
+        "homepage": "https://rnfirebase.io/",
+        "git": "https://github.com/invertase",
+        "notable_channels": [
+            "Notable Channels: #help-react",
+            "#react-native",
+            "#js",
+            "#styling",
+            "#backend",
+            "#graphql",
+            "#code-review",
+            "#react-router",
+            "#redux",
+            "#react-bootstrap",
+            "#formik",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/invertase_oss.webp",
+        "category": "Web Development",
+        "subcategory": "React.js"
+    },
+    {
+        "name": "BootstrapVue",
+        "invite_code": "https://discord.com/invite/j2Mtcny",
+        "official": true,
+        "homepage": "https://bootstrap-vue.org/",
+        "git": "https://github.com/bootstrap-vue",
+        "notable_channels": [
+            "#general",
+            "#i-made-this"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/bootstrapvue.webp",
+        "category": "Web Development",
+        "subcategory": "Vue.js"
+    },
+    {
+        "name": "Buefy",
+        "invite_code": "https://discord.com/invite/ZkdFJMr",
+        "official": true,
+        "homepage": "https://buefy.org/",
+        "git": "https://github.com/buefy",
+        "notable_channels": [
+            "#general",
+            "#need-help",
+            "#feature-request",
+            "#i-made-this"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/buefy.webp",
+        "category": "Web Development",
+        "subcategory": "Vue.js"
+    },
+    {
+        "name": "Gridsome",
+        "invite_code": "https://discord.com/invite/daeay6n",
+        "official": true,
+        "homepage": "https://gridsome.org/",
+        "git": "https://github.com/gridsome",
+        "notable_channels": [
+            "#general",
+            "#help",
+            "#documentation",
+            "#showcase",
+            "#development",
+            "#starter-kits",
+            "#plugin-releases",
+            "#graphql",
+            "#vuejs",
+            "#platforms"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/gridsome.webp",
+        "category": "Web Development",
+        "subcategory": "Vue.js"
+    },
+    {
+        "name": "Nuxt.js",
+        "invite_code": "https://discord.com/invite/b3dvQ9b",
+        "official": true,
+        "homepage": "https://nuxtjs.org/",
+        "git": "https://github.com/nuxt",
+        "notable_channels": [
+            "#articles",
+            "#general",
+            "#showcase",
+            "#documentation",
+            "#proposals",
+            "#nuxt",
+            "#axios",
+            "#pwa",
+            "#webpack",
+            "#middleware",
+            "#apollo",
+            "#plugins",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English",
+            "Deutsch",
+            "français",
+            "español",
+            "日本語",
+            "português",
+            "русский",
+            "italiano",
+            "中文",
+            ""
+        ],
+        "icon": "images/server_icons/nuxtjs.webp",
+        "category": "Web Development",
+        "subcategory": "Vue.js"
+    },
+    {
+        "name": "Quasar Framework",
+        "invite_code": "https://discord.com/invite/5TDhbDg",
+        "official": true,
+        "homepage": "https://quasar.dev/",
+        "git": "https://github.com/quasarframework/quasar",
+        "notable_channels": [
+            "#i-made-this",
+            "#ideas",
+            "#jobs",
+            "#conferences",
+            "#upgrading",
+            "#app-extensions",
+            "#components",
+            "#cli",
+            "#spa",
+            "#ssr",
+            "#pwa",
+            "#umd",
+            "#cordova",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English",
+            "Deutsch",
+            "اَلْعَرَبِيَّةُ‎",
+            "français",
+            "Türkçe",
+            "español",
+            "日本語",
+            "dansk",
+            "한국어",
+            "português",
+            "polski",
+            "русский"
+        ],
+        "icon": "images/server_icons/quasar_framework.webp",
+        "category": "Web Development",
+        "subcategory": "Vue.js"
+    },
+    {
+        "name": "Vue Land",
+        "invite_code": "https://discord.com/invite/HBherRA",
+        "official": false,
+        "homepage": "",
+        "git": "https://github.com/vue-land",
+        "notable_channels": [
+            "#vuex-store",
+            "#vue-router",
+            "#code-help",
+            "#vue-cli",
+            "#vue-i18n",
+            "#vuepress",
+            "#composition-api",
+            "#vue3-discussions",
+            "#vue2-internals",
+            "#vue-testing",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English",
+            "Deutsch",
+            "français",
+            "汉语",
+            "español",
+            "日本語",
+            "dansk",
+            "한국어",
+            "português",
+            "polski",
+            "русский"
+        ],
+        "icon": "images/server_icons/vue_land.webp",
+        "category": "Web Development",
+        "subcategory": "Vue.js"
+    },
+    {
+        "name": "Vue Material",
+        "invite_code": "https://discord.com/invite/vuematerial",
+        "official": true,
+        "homepage": "https://vuematerial.io/",
+        "git": "http://github.com/vuematerial",
+        "notable_channels": [
+            "#general",
+            "#need-help",
+            "#bugs",
+            "#ideas",
+            "#i-made-this"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/vue_material.webp",
+        "category": "Web Development",
+        "subcategory": "Vue.js"
+    },
+    {
+        "name": "Vuesax",
+        "invite_code": "https://discord.com/invite/2kHwpfe",
+        "official": true,
+        "homepage": "https://lusaxweb.github.io/vuesax/",
+        "git": "https://github.com/lusaxweb/vuesax",
+        "notable_channels": [
+            "#i-made-this",
+            "#issues",
+            "#ideas",
+            "#ssr",
+            "#design",
+            "#discord-help",
+            "#bugs",
+            "#pull-requests",
+            "#responsive",
+            "#proposals"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/vuesax.webp",
+        "category": "Web Development",
+        "subcategory": "Vue.js"
+    },
+    {
+        "name": "Vuetify",
+        "invite_code": "https://discord.com/invite/s93b7Fv",
+        "official": true,
+        "homepage": "https://vuetifyjs.com/en/",
+        "git": "https://github.com/vuetifyjs",
+        "notable_channels": [
+            "#help",
+            "#beginner-questions",
+            "#bug-reporting",
+            "#updating-versions",
+            "#tooling",
+            "#testing",
+            "#nuxt",
+            "#premium-theme-support",
+            "#women-who-vuetify",
+            "#frontend"
+        ],
+        "language": [
+            "English",
+            "Deutsch",
+            "français",
+            "español",
+            "日本語",
+            "한국어",
+            "português",
+            "polski",
+            "русский"
+        ],
+        "icon": "images/server_icons/vuetify.webp",
+        "category": "Web Development",
+        "subcategory": "Vue.js"
+    },
+    {
+        "name": "seed-rs",
+        "invite_code": "https://discord.com/invite/JHHcHp5",
+        "official": true,
+        "homepage": "https://seed-rs.org/",
+        "git": "https://github.com/seed-rs",
+        "notable_channels": [
+            "#app-architecture",
+            "#hooks-and-style",
+            "#devel",
+            "#support",
+            "#showcase",
+            "#documentation",
+            "#jobs"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/seed_rs.webp",
+        "category": "Web Development",
+        "subcategory": "WebAssembly Frameworks"
+    },
+    {
+        "name": "Yew",
+        "invite_code": "https://discord.com/invite/VQck8X4",
+        "official": true,
+        "homepage": "https://yew.rs",
+        "git": "https://github.com/yewstack",
+        "notable_channels": [
+            "#development",
+            "#support",
+            "#showcase",
+            "#fetch",
+            "#functional",
+            "#router",
+            "#ssr",
+            "#gloo",
+            "#malvolio",
+            "#trunk",
+            "#ybc",
+            "#yewprint",
+            "#yew-state",
+            "#yew_styles"
+        ],
+        "language": [
+            "English",
+            "中文"
+        ],
+        "icon": "images/server_icons/yew.webp",
+        "category": "Web Development",
+        "subcategory": "WebAssembly Frameworks"
+    },
+    {
+        "name": "docsify",
+        "invite_code": "https://discord.com/invite/anXTEZk",
+        "official": true,
+        "homepage": "https://docsify.js.org/#/",
+        "git": "https://github.com/docsifyjs",
+        "notable_channels": [
+            "#general",
+            "#showcase",
+            "#help",
+            "#contribution-guidelines",
+            "#docsify-themeable",
+            "#plugins",
+            "#docsify-labs"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/docsify.webp",
+        "category": "Web Development",
+        "subcategory": "Web Libraries"
+    },
+    {
+        "name": "EGOIST OSS",
+        "invite_code": "https://discord.com/invite/2t5mdCz",
+        "official": true,
+        "homepage": "https://poi.js.org/",
+        "git": "https://github.com/egoist/poi",
+        "notable_channels": [
+            "#ream",
+            "#saber",
+            "#poi",
+            "#cac",
+            "#bili",
+            "#sao",
+            "#codepan",
+            "#docup"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/egoist_oss.webp",
+        "category": "Web Development",
+        "subcategory": "Web Libraries"
+    },
+    {
+        "name": "SolidJS",
+        "invite_code": "https://discord.com/invite/solidjs",
+        "official": true,
+        "homepage": "https://solidjs.com/",
+        "git": "https://github.com/ryansolid/solid",
+        "notable_channels": [
+            "#general",
+            "#support",
+            "#maintenance",
+            "#design",
+            "#presets",
+            "#documentation",
+            "#addons",
+            "#jobs",
+            "#frameworks"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/solidjs.webp",
+        "category": "Web Development",
+        "subcategory": "Web Libraries"
+    },
+    {
+        "name": "Testing Library",
+        "invite_code": "https://discord.com/invite/c6JN9fM",
+        "official": true,
+        "homepage": "https://testing-library.com/",
+        "git": "https://github.com/testing-library",
+        "notable_channels": [
+            "#general",
+            "#help",
+            "#dom",
+            "#react",
+            "#react-hooks",
+            "#native",
+            "#cypress",
+            "#vue",
+            "#angular",
+            "#svelte",
+            "#preact",
+            "#preact-hooks",
+            "#pptr",
+            "#testcafe",
+            "#nightwatch",
+            "#playground"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/testing_library.webp",
+        "category": "Web Development",
+        "subcategory": "Web Libraries"
+    },
+    {
+        "name": "yarnpkg",
+        "invite_code": "https://discord.com/invite/yarnpkg",
+        "official": true,
+        "homepage": "https://classic.yarnpkg.com/en/",
+        "git": "https://github.com/yarnpkg",
+        "notable_channels": [
+            "#contributing",
+            "#prs",
+            "#issues",
+            "#support",
+            "#general"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/yarnpkg.webp",
+        "category": "Web Development",
+        "subcategory": "Web Libraries"
+    },
+    {
+        "name": "WordPress",
+        "invite_code": "https://discord.com/invite/ysDu8W3",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#general",
+            "#help",
+            "#gutenberg",
+            "#hosting-discussion",
+            "#themes",
+            "#plugins",
+            "#woocommerce",
+            "#ecommerce",
+            "#professional",
+            "#marketplace"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/wordpress.webp",
+        "category": "Web Development",
+        "subcategory": "WordPress"
+    },
+    {
+        "name": "WordPress Chat",
+        "invite_code": "https://discord.com/invite/3gQGJQA",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#security",
+            "#general",
+            "#devops",
+            "#plugin-development",
+            "#theme-development",
+            "#coding-questions",
+            "#css",
+            "#wp-cli",
+            "#seo",
+            "#beginner-help",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/wordpress_chat.webp",
+        "category": "Web Development",
+        "subcategory": "WordPress"
+    },
+    {
+        "name": "Blink",
+        "invite_code": "https://discord.com/invite/ZTtMfvK",
+        "official": true,
+        "homepage": "https://blink.sh/",
+        "git": "https://github.com/blinksh",
+        "notable_channels": [
+            "#support",
+            "#themes-and-fonts",
+            "#shortcuts",
+            "#tips-and-tricks",
+            "#general",
+            "#dev",
+            "#design"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/blink.webp",
+        "category": "Development Environments",
+        "subcategory": ""
+    },
+    {
+        "name": "Doom Emacs",
+        "invite_code": "https://discord.com/invite/qvGgnVx",
+        "official": true,
+        "homepage": "",
+        "git": "https://github.com/hlissner/doom-emacs",
+        "notable_channels": [
+            "#troubleshooting",
+            "#how-do-i",
+            "#cli",
+            "#emacs-lisp",
+            "#protips",
+            "#project",
+            "#org-mode",
+            "#latex",
+            "#keyboards",
+            "#themes",
+            "#operating-systems",
+            "#hardware",
+            "#programming"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/doom_emacs.webp",
+        "category": "Development Environments",
+        "subcategory": ""
+    },
+    {
+        "name": "Files",
+        "invite_code": "https://discord.com/invite/mr5hVu8",
+        "official": true,
+        "homepage": "https://files-community.github.io/",
+        "git": "https://github.com/files-community",
+        "notable_channels": [
+            "#general",
+            "#design"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/files.webp",
+        "category": "Development Environments",
+        "subcategory": ""
+    },
+    {
+        "name": "Gitea",
+        "invite_code": "https://discord.com/invite/gitea",
+        "official": true,
+        "homepage": "https://gitea.io",
+        "git": "https://github.com/go-gitea",
+        "notable_channels": [
+            "#configuration",
+            "#docker",
+            "#drone-integration",
+            "#reverse-proxies",
+            "#develop",
+            "#helm-chart",
+            "#tea"
+        ],
+        "language": [
+            "English",
+            "Deutsch",
+            "português",
+            "中文",
+            "français",
+            "español",
+            "Nederlands",
+            "русский",
+            "Czech \\"
+        ],
+        "icon": "images/server_icons/gitea.webp",
+        "category": "Development Environments",
+        "subcategory": ""
+    },
+    {
+        "name": "JetBrains Community",
+        "invite_code": "https://discord.com/invite/yBQKN5b",
+        "official": false,
+        "homepage": "https://jetbrains-community.github.io/",
+        "git": "https://github.com/JetBrains-Community",
+        "notable_channels": [
+            "#general-os",
+            "#ideavim",
+            "#intellij-idea-community",
+            "#kotlin",
+            "#mps",
+            "#appcode",
+            "#clion",
+            "#datagrip",
+            "#datalore",
+            "#dotcover",
+            "#phpstorm",
+            "#pycharm",
+            "#resharper",
+            "#rider",
+            "#rubymine"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/jetbrains_community.webp",
+        "category": "Development Environments",
+        "subcategory": ""
+    },
+    {
+        "name": "MS Paint IDE",
+        "invite_code": "https://discord.com/invite/RXmPkPJ",
+        "official": true,
+        "homepage": "https://ms-paint-i.de/",
+        "git": "https://github.com/MSPaintIDE",
+        "notable_channels": [
+            "#support",
+            "#ide-development",
+            "#newocr-development",
+            "#share-your-projects",
+            "#java"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/ms_paint_ide.webp",
+        "category": "Development Environments",
+        "subcategory": ""
+    },
+    {
+        "name": "ohmyzsh",
+        "invite_code": "https://discord.com/invite/ohmyzsh",
+        "official": true,
+        "homepage": "https://ohmyz.sh/",
+        "git": "https://github.com/ohmyzsh",
+        "notable_channels": [
+            "#chat",
+            "#feedback",
+            "#collaboration",
+            "#fydo-tiles",
+            "#pixel-art",
+            "#palettes",
+            "#voxel-art",
+            "#low-poly-3d",
+            "#textmode",
+            "#chpitune",
+            "#programming",
+            "#in-game-builds",
+            "#events",
+            "#jobs"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/ohmyzsh.webp",
+        "category": "Development Environments",
+        "subcategory": ""
+    },
+    {
+        "name": "Pixel Art",
+        "invite_code": "https://discord.com/invite/HPdmz4P",
+        "official": true,
+        "homepage": "https://twitter.com/PixelArtDiscord/",
+        "git": "",
+        "notable_channels": [
+            "#pixelart",
+            "#gamedev",
+            "#pixel-challenges",
+            "#featured-gallery",
+            "#art-gallery",
+            "#gallery-discussion",
+            "#pixelart-feedback",
+            "#animation-feedback",
+            "#tutorials"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/pixel_art.webp",
+        "category": "Design and Illustrations",
+        "subcategory": ""
+    },
+    {
+        "name": "The Design Collective",
+        "invite_code": "https://discord.com/invite/zM5pgrc",
+        "official": false,
+        "homepage": "https://medium.com/the-design-collective",
+        "git": "",
+        "notable_channels": [
+            "#the-spotlight",
+            "#discussions",
+            "#critique",
+            "#showcase",
+            "#tech-help",
+            "#resources",
+            "#inspiration",
+            "#traditional",
+            "#illustration",
+            "#photography"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/the_design_collective.webp",
+        "category": "Design and Illustrations",
+        "subcategory": ""
+    },
+    {
+        "name": "Operating System Development",
+        "invite_code": "https://discord.com/invite/RnCtsqD",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#root",
+            "#custom-roms",
+            "#theming",
+            "#development",
+            "#magisk",
+            "#twrp",
+            "#substratum",
+            "#support-room"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/operating_system_development.webp",
+        "category": "Operating Systems",
+        "subcategory": ""
+    },
+    {
+        "name": "/r/FlutterDev",
+        "invite_code": "https://discord.com/invite/N7Yshp4",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/FlutterDev/",
+        "git": "",
+        "notable_channels": [
+            "#beginner",
+            "#intermediate",
+            "#general",
+            "#android",
+            "#ios",
+            "#web",
+            "#desktop",
+            "#app-showcase",
+            "#hiring"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/r_flutterdev.webp",
+        "category": "Operating Systems",
+        "subcategory": "Android"
+    },
+    {
+        "name": "Android Discord",
+        "invite_code": "https://discord.com/invite/android",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/Android/",
+        "git": "",
+        "notable_channels": [
+            "#android",
+            "#whatphone",
+            "#tech-support",
+            "#phone-questions",
+            "#themes",
+            "#phonetography"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/android_discord.webp",
+        "category": "Operating Systems",
+        "subcategory": "Android"
+    },
+    {
+        "name": "XDA-Developers",
+        "invite_code": "https://discord.com/invite/EhaMzy2",
+        "official": true,
+        "homepage": "https://forum.xda-developers.com/",
+        "git": "https://github.com/xda",
+        "notable_channels": [
+            "#general-tech",
+            "#help",
+            "#development",
+            "#theming",
+            "#devices",
+            "#google-general",
+            "#huawei-general",
+            "#oneplus-general",
+            "#samsung-general",
+            "#nokia-general"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/xda-developers.webp",
+        "category": "Operating Systems",
+        "subcategory": "Android"
+    },
+    {
+        "name": "/r/Hackintosh Paradise",
+        "invite_code": "https://discord.com/invite/Wxam8aH",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/hackintosh/",
+        "git": "https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/",
+        "notable_channels": [
+            "#hackintosh-help",
+            "#laptop-prebuilt",
+            "#smbios",
+            "#macos",
+            "#linux",
+            "#windows",
+            "#retro-gaming",
+            "#hardware"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/r_hackintosh_paradise.webp",
+        "category": "Operating Systems",
+        "subcategory": "Apple Systems"
+    },
+    {
+        "name": "AMD OS X",
+        "invite_code": "https://discord.com/invite/EfCYAJW",
+        "official": true,
+        "homepage": "https://amd-osx.com/",
+        "git": "https://github.com/AMD-OSX",
+        "notable_channels": [
+            "#big_sur_discussions",
+            "#development_discussions",
+            "#b550_development",
+            "#install_support",
+            "#post_install_support",
+            "#gpu_support",
+            "#networking_support",
+            "#hardware_discussion"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/amd_os_x.webp",
+        "category": "Operating Systems",
+        "subcategory": "Apple Systems"
+    },
+    {
+        "name": "Apple Betas",
+        "invite_code": "https://discord.com/invite/4EEkWjS",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/iOSBeta/",
+        "git": "https://github.com/23Aaron/JeffBot",
+        "notable_channels": [
+            "#releases",
+            "#general",
+            "#ios",
+            "#ipados",
+            "#macos",
+            "#watchos",
+            "#tvos",
+            "#xcode",
+            "#development"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/apple_betas.webp",
+        "category": "Operating Systems",
+        "subcategory": "Apple Systems"
+    },
+    {
+        "name": "Unsupported Macs",
+        "invite_code": "https://discord.com/invite/XbbWAsE",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#barrykn-patcher",
+            "#bensova-patcher",
+            "#dosdude1-patchers",
+            "#big-sur",
+            "#catalina",
+            "#mojave",
+            "#high-sieraa",
+            "#sierra",
+            "#el-capitan",
+            "#yosemite",
+            "#mavericks",
+            "#mountain-lion"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/unsupported_macs.webp",
+        "category": "Operating Systems",
+        "subcategory": "Apple Systems"
+    },
+    {
+        "name": "r/Apple",
+        "invite_code": "https://discord.com/invite/apple",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/Apple",
+        "git": "",
+        "notable_channels": [
+            "#apple",
+            "#purchase-advice",
+            "#shot-on-iphone",
+            "#homescreen",
+            "#ios-ipados",
+            "#macos",
+            "#watchos",
+            "#xcode",
+            "#services",
+            "#jailbreak-info",
+            "#support"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/r_apple.webp",
+        "category": "Operating Systems",
+        "subcategory": "Apple Systems"
+    },
+    {
+        "name": "r/Jailbreak",
+        "invite_code": "https://discord.com/invite/jb",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/jailbreak/",
+        "git": "https://github.com/Emy/janet",
+        "notable_channels": [
+            "#showcase",
+            "#common-issues",
+            "#jailbreak",
+            "#general",
+            "#themes",
+            "#legacy",
+            "#unc0ver",
+            "#tvos-jailbreaks",
+            "#checkra1n",
+            "#chimera",
+            "#flex",
+            "#ncontrol",
+            "#support"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/r_jailbreak.webp",
+        "category": "Operating Systems",
+        "subcategory": "Apple Systems"
+    },
+    {
+        "name": "Hackintosh x86 & Tech",
+        "invite_code": "https://discord.com/invite/qc89CQkX7j",
+        "official": false,
+        "homepage": "http://www.hackintoshx86.co.uk/",
+        "git": "",
+        "notable_channels": [
+            "#general",
+            "#shorcut-sharing",
+            "#help-and-support",
+            "#shortcast-info",
+            "#shortcasts-content-suggestions"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/hackintosh_x86.webp",
+        "category": "Operating Systems",
+        "subcategory": "Apple Systems"
+    },
+    {
+        "name": "Microsoft Community",
+        "invite_code": "https://discord.com/invite/microsoft",
+        "official": false,
+        "homepage": "https://msft.chat/",
+        "git": "https://github.com/sylveon/SatyaNadella",
+        "notable_channels": [
+            "#general-chat",
+            "#insiders-chat",
+            "#tech-support",
+            "#purchase-advice",
+            "#development",
+            "#it-pros",
+            "#servers",
+            "#surface",
+            "#office",
+            "#unix"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/microsoft_community.webp",
+        "category": "Operating Systems",
+        "subcategory": "Windows"
+    },
+    {
+        "name": "*nix nest",
+        "invite_code": "https://discord.com/invite/svhXktFkAG",
+        "official": false,
+        "homepage": "",
+        "git": "https://github.com/nixnest",
+        "notable_channels": [
+            "#home",
+            "#dev-random",
+            "#support",
+            "#unixporn",
+            "#programming",
+            "#media",
+            "#hardware",
+            "#gaming"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/nix_nest.webp",
+        "category": "Operating Systems",
+        "subcategory": "Linux"
+    },
+    {
+        "name": "Discord Linux",
+        "invite_code": "https://discord.com/invite/discord-linux",
+        "official": false,
+        "homepage": "",
+        "git": "https://github.com/discordlinux",
+        "notable_channels": [
+            "#tech",
+            "#customization",
+            "#programming",
+            "#support-linux",
+            "#support-distro-installs",
+            "#support-games",
+            "#support-discord",
+            "#support-non-linux"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/discord_linux.webp",
+        "category": "Operating Systems",
+        "subcategory": "Linux"
+    },
+    {
+        "name": "Linux Café",
+        "invite_code": "https://discord.com/invite/9pfb5ZB",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#linux-news",
+            "#general",
+            "#linux",
+            "#gaming",
+            "#suggestions",
+            "#developers",
+            "#themes",
+            "#support"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/linux_cafe.webp",
+        "category": "Operating Systems",
+        "subcategory": "Linux"
+    },
+    {
+        "name": "r/unixporn",
+        "invite_code": "https://discord.com/invite/TnJ4h5K",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/unixporn/",
+        "git": "https://github.com/unixporn",
+        "notable_channels": [
+            "#showcase",
+            "#ricing-theming",
+            "#tools",
+            "#wallpapers",
+            "#tech-support",
+            "#programming",
+            "#hardware"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/r_unixporn.webp",
+        "category": "Operating Systems",
+        "subcategory": "Linux"
+    },
+    {
+        "name": "Arch Linux [unofficial]",
+        "invite_code": "https://discord.com/invite/MrhPdhn",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#news",
+            "#home",
+            "#arch-support",
+            "#other-distros",
+            "#programming",
+            "#ricing",
+            "#wallpapers"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/arch_linux_unofficial.webp",
+        "category": "Operating Systems",
+        "subcategory": "Linux Distributions"
+    },
+    {
+        "name": "Fedora Linux",
+        "invite_code": "https://discord.com/invite/Fedora",
+        "official": true,
+        "homepage": "https://getfedora.org/",
+        "git": "https://github.com/fedora-infra",
+        "notable_channels": [
+            "#home",
+            "#man-pages",
+            "#silverblue-containers",
+            "#server-rhel-centos",
+            "#arm-raspberry",
+            "#showcase",
+            "#gaming-general",
+            "#hardware-for-linux"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/fedora_linux.webp",
+        "category": "Operating Systems",
+        "subcategory": "Linux Distributions"
+    },
+    {
+        "name": "Gentoo Linux",
+        "invite_code": "https://discord.com/invite/Gentoo",
+        "official": true,
+        "homepage": "https://www.gentoo.org/",
+        "git": "https://github.com/gentoo",
+        "notable_channels": [
+            "#chat",
+            "#support",
+            "#screenshots",
+            "#general-development",
+            "#ebuilds",
+            "#resources",
+            "#containers"
+        ],
+        "language": [
+            "English",
+            "日本語 \\"
+        ],
+        "icon": "images/server_icons/gentoo_linux.webp",
+        "category": "Operating Systems",
+        "subcategory": "Linux Distributions"
+    },
+    {
+        "name": "Linux Mint Community",
+        "invite_code": "https://discord.com/invite/EVVtPpw",
+        "official": false,
+        "homepage": "",
+        "git": "https://github.com/UtopicUnicorns/artemis",
+        "notable_channels": [
+            "#support-mint",
+            "#support-lmde",
+            "#support-other-os",
+            "#support-nos",
+            "#general",
+            "#tech-talk",
+            "#user-created-content"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/linux_mint_community.webp",
+        "category": "Operating Systems",
+        "subcategory": "Linux Distributions"
+    },
+    {
+        "name": "Manjaro Linux",
+        "invite_code": "https://discord.com/invite/t6GJuTC",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#kde",
+            "#xfce",
+            "#gnome",
+            "#manjaro-arm",
+            "#help-general",
+            "#help-installation",
+            "#programming",
+            "#customizations"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/manjaro_linux.webp",
+        "category": "Operating Systems",
+        "subcategory": "Linux Distributions"
+    },
+    {
+        "name": "openSUSE",
+        "invite_code": "https://discord.com/invite/openSUSE",
+        "official": true,
+        "homepage": "https://www.opensuse.org/",
+        "git": "https://github.com/openSUSE",
+        "notable_channels": [
+            "#support",
+            "#chat",
+            "#project",
+            "#packaging",
+            "#factory",
+            "#admin",
+            "#artwork",
+            "#docs",
+            "#gnome",
+            "#xfce"
+        ],
+        "language": [
+            "English",
+            "français",
+            "Deutsch",
+            "italiano",
+            "polski",
+            "español",
+            "Nederlands \\"
+        ],
+        "icon": "images/server_icons/opensuse.webp",
+        "category": "Operating Systems",
+        "subcategory": "Linux Distributions"
+    },
+    {
+        "name": "Ubuntu Hideout",
+        "invite_code": "https://discord.com/invite/jcwJEJH",
+        "official": false,
+        "homepage": "https://ubuntuhideout.com/",
+        "git": "",
+        "notable_channels": [
+            "#tech-talk",
+            "#coding-cave",
+            "#system-installation",
+            "#software-installation",
+            "#desktop-environment",
+            "#hardware-drivers",
+            "#networking",
+            "#programming"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/ubuntu_hideout.webp",
+        "category": "Operating Systems",
+        "subcategory": "Linux Distributions"
+    },
+    {
+        "name": "ReactOS Community",
+        "invite_code": "https://discord.com/invite/7knjvhT",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#general",
+            "#support",
+            "#working-programs",
+            "#working-hardware",
+            "#debugging",
+            "#teaching-room",
+            "#reactos-youtube",
+            "#git-highlights"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/reactos_community.webp",
+        "category": "Operating Systems",
+        "subcategory": "Other OS"
+    },
+    {
+        "name": "r/ChromeOS",
+        "invite_code": "https://discord.com/invite/T7AMQUM",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/chromeos/",
+        "git": "",
+        "notable_channels": [
+            "#chromeos",
+            "#chromium",
+            "#crostini",
+            "#purchase-advice",
+            "#dev-mode",
+            "#enterprise",
+            "#android",
+            "#gaming",
+            "#support"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/r_chromeos.webp",
+        "category": "Operating Systems",
+        "subcategory": "Other OS"
+    },
+    {
+        "name": "/r/sysadmin",
+        "invite_code": "https://discord.com/invite/sysadmin",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/sysadmin",
+        "git": "",
+        "notable_channels": [
+            "#sysadmin",
+            "#help",
+            "#security",
+            "#scripting",
+            "#microsoft",
+            "#linux",
+            "#career-advice",
+            "#networking"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/r_sysadmin.webp",
+        "category": "DevOps and System Administration",
+        "subcategory": ""
+    },
+    {
+        "name": "Amazon Web Services (AWS Cloud)",
+        "invite_code": "https://discord.com/invite/vG7nVX5",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#general-aws",
+            "#aws-rage",
+            "#ask-for-technical-help",
+            "#cloud-automation",
+            "#cloud-security",
+            "#getting-hired"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/amazon_web_services_aws_cloud.webp",
+        "category": "DevOps and System Administration",
+        "subcategory": ""
+    },
+    {
+        "name": "Data Engineering",
+        "invite_code": "https://discord.com/invite/2pER6dq",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#general",
+            "#show",
+            "#help",
+            "#career",
+            "#data-science #resources",
+            "#architecture",
+            "#cloud",
+            "#databases",
+            "#etl-workflow"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/data_engineering.webp",
+        "category": "DevOps and System Administration",
+        "subcategory": ""
+    },
+    {
+        "name": "Eddie Jaoude Community",
+        "invite_code": "https://discord.com/invite/jZQs6Wu",
+        "official": true,
+        "homepage": "http://eddiejaoudecommunity.github.io",
+        "git": "http://github.com/EddieJaoudeCommunity",
+        "notable_channels": [
+            "#opensource",
+            "#first-timers",
+            "#help",
+            "#livestream",
+            "#hackathons",
+            "#careers"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/eddiejaoudecommunity.webp",
+        "category": "DevOps and System Administration",
+        "subcategory": ""
+    },
+    {
+        "name": "Homelab",
+        "invite_code": "https://discord.com/invite/homelab",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/homelab/",
+        "git": "",
+        "notable_channels": [
+            "#general",
+            "#labpics",
+            "#homelabquotes",
+            "#code"
+        ],
+        "language": [
+            "English",
+            "Deutsch",
+            "français",
+            "Nederlands \\"
+        ],
+        "icon": "images/server_icons/homelab.webp",
+        "category": "DevOps and System Administration",
+        "subcategory": ""
+    },
+    {
+        "name": "Data Engineering",
+        "invite_code": "https://discord.com/invite/2pER6dq",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#general",
+            "#show",
+            "#help",
+            "#career",
+            "#data-science #resources",
+            "#architecture",
+            "#cloud",
+            "#databases",
+            "#etl-workflow"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/data_engineering.webp",
+        "category": "DevOps and System Administration",
+        "subcategory": "Data Management"
+    },
+    {
+        "name": "Grakn",
+        "invite_code": "https://discord.com/invite/grakn",
+        "official": true,
+        "homepage": "https://grakn.ai/",
+        "git": "https://github.com/graknlabs",
+        "notable_channels": [
+            "#general",
+            "#graql",
+            "#grakn",
+            "#grabl",
+            "#build",
+            "#buildbuddy",
+            "#troubleshoot",
+            "#workbase",
+            "#biograkn",
+            "#kglib",
+            "#nlp",
+            "#ideas",
+            "#events"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/grakn_labs.webp",
+        "category": "DevOps and System Administration",
+        "subcategory": "Data Management"
+    },
+    {
+        "name": "Appwrite",
+        "invite_code": "https://discord.com/invite/GSeTUeA",
+        "official": true,
+        "homepage": "https://appwrite.io/",
+        "git": "https://github.com/appwrite",
+        "notable_channels": [
+            "#support",
+            "#maintainers",
+            "#account",
+            "#users",
+            "#database",
+            "#storage",
+            "#web",
+            "#flutter",
+            "#react-native",
+            "#ios",
+            "#android",
+            "#servers",
+            "#unity",
+            "#electron"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/appwrite.webp",
+        "category": "DevOps and System Administration",
+        "subcategory": "API"
+    },
+    {
+        "name": "disease.sh",
+        "invite_code": "https://discord.com/invite/uypdG2h",
+        "official": true,
+        "homepage": "https://disease.sh/",
+        "git": "https://github.com/disease-sh",
+        "notable_channels": [
+            "#showcase",
+            "#feedback-suggestions",
+            "#commands",
+            "#api-support",
+            "#public-development"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/disease_sh.webp",
+        "category": "DevOps and System Administration",
+        "subcategory": "API"
+    },
+    {
+        "name": "HasuraHQ",
+        "invite_code": "https://discord.com/invite/hasura",
+        "official": true,
+        "homepage": "https://hasura.io/",
+        "git": "https://github.com/hasura/graphql-engine",
+        "notable_channels": [
+            "#graphql-engine",
+            "#new-to-graphql",
+            "#contrib",
+            "#look-what-i-built",
+            "#preview",
+            "#3factor-apps",
+            "#deployment-help"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/hasurahq.webp",
+        "category": "DevOps and System Administration",
+        "subcategory": "API"
+    },
+    {
+        "name": "SpaceUpTech",
+        "invite_code": "https://discord.com/invite/RkGjW93",
+        "official": true,
+        "homepage": "https://spaceuptech.com/",
+        "git": "https://github.com/spaceuptech",
+        "notable_channels": [
+            "#general",
+            "#contributions"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/spaceuptech.webp",
+        "category": "DevOps and System Administration",
+        "subcategory": "API"
+    },
+    {
+        "name": "Cryb",
+        "invite_code": "https://discord.com/invite/xdhEgD5",
+        "official": true,
+        "homepage": "https://cryb.app/",
+        "git": "https://github.com/crybapp",
+        "notable_channels": [
+            "#cryb",
+            "#getting-started",
+            "#support",
+            "#tech-support",
+            "#updates",
+            "#community",
+            "#interests"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/cryb.webp",
+        "category": "DevOps and System Administration",
+        "subcategory": "Containers"
+    },
+    {
+        "name": "Linuxserver.io",
+        "invite_code": "https://discord.com/invite/YWrKVTn",
+        "official": true,
+        "homepage": "https://www.linuxserver.io/",
+        "git": "https://github.com/linuxserver",
+        "notable_channels": [
+            "#general-support",
+            "#docker-support",
+            "#heimdall",
+            "#linux-chat",
+            "#other-support",
+            "#hardware"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/linuxserver_io.webp",
+        "category": "DevOps and System Administration",
+        "subcategory": "Containers"
+    },
+    {
+        "name": "/r/Plex",
+        "invite_code": "https://discord.com/invite/plex",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/PleX/",
+        "git": "",
+        "notable_channels": [
+            "#general",
+            "#software",
+            "#hardware",
+            "#media-suggestions"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/r_plex.webp",
+        "category": "DevOps and System Administration",
+        "subcategory": "Server Applications"
+    },
+    {
+        "name": "LibreNMS",
+        "invite_code": "https://discord.com/invite/librenms",
+        "official": true,
+        "homepage": "https://www.librenms.org/",
+        "git": "https://github.com/librenms",
+        "notable_channels": [
+            "#general",
+            "#devel"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/librenms.webp",
+        "category": "DevOps and System Administration",
+        "subcategory": "Server Applications"
+    },
+    {
+        "name": "Organizr",
+        "invite_code": "https://discord.com/invite/TrNtY7N",
+        "official": true,
+        "homepage": "https://organizr.app/",
+        "git": "https://github.com/causefx/Organizr",
+        "notable_channels": [
+            "#infosec-general",
+            "#technical-chat",
+            "#student-zone",
+            "#blue-team-zone",
+            "#ctf",
+            "#malware-phishing",
+            "#cyber-threat-intel",
+            "#digital-forensics"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/organizr.webp",
+        "category": "DevOps and System Administration",
+        "subcategory": "Server Applications"
+    },
+    {
+        "name": "CyberSecLabs Lounge",
+        "invite_code": "https://discord.com/invite/vy75f7W",
+        "official": true,
+        "homepage": "https://www.cyberseclabs.co.uk/",
+        "git": "",
+        "notable_channels": [
+            "#support-labs",
+            "#challenge-labs",
+            "#ctf",
+            "#technical-help",
+            "#red-teaming",
+            "#networking",
+            "#cryptography",
+            "#programming"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/cyberseclabs_lounge.webp",
+        "category": "Computer Security",
+        "subcategory": ""
+    },
+    {
+        "name": "DEFCON",
+        "invite_code": "https://discord.com/invite/defcon",
+        "official": true,
+        "homepage": "https://www.defcon.org/",
+        "git": "https://media.defcon.org/",
+        "notable_channels": [
+            "_Will open on August 5-8",
+            "2021_"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/defcon.webp",
+        "category": "Computer Security",
+        "subcategory": ""
+    },
+    {
+        "name": "Hacker101",
+        "invite_code": "https://discord.com/invite/32ZNZVN",
+        "official": true,
+        "homepage": "https://www.hackerone.com/",
+        "git": "https://github.com/Hacker0x01",
+        "notable_channels": [
+            "#help",
+            "#ctf",
+            "#starting-out",
+            "#mobile",
+            "#exploits-and-vulns",
+            "#hardware",
+            "#malware",
+            "#tools",
+            "#software-protections"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/hacker101.webp",
+        "category": "Computer Security",
+        "subcategory": ""
+    },
+    {
+        "name": "The Cyber Mentor",
+        "invite_code": "https://discord.com/invite/Nu59kq5",
+        "official": false,
+        "homepage": "https://www.twitch.tv/thecybermentor",
+        "git": "",
+        "notable_channels": [
+            "#web-app-course",
+            "#zero-to-hero",
+            "#red-teaming",
+            "#reverse-engineering",
+            "#linux",
+            "#web-apps",
+            "#htb",
+            "#tryhackme",
+            "#forensics",
+            "#job-postings"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/the_cyber_mentor.webp",
+        "category": "Computer Security",
+        "subcategory": ""
+    },
+    {
+        "name": "Whitehat Hacking",
+        "invite_code": "https://discord.com/invite/beczNYP",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#general",
+            "#development"
+        ],
+        "language": [
+            "English",
+            "русский \\"
+        ],
+        "icon": "images/server_icons/whitehat_hacking.webp",
+        "category": "Computer Security",
+        "subcategory": ""
+    },
+    {
+        "name": "PINCE",
+        "invite_code": "https://discord.com/invite/KCNDp9m",
+        "official": true,
+        "homepage": "",
+        "git": "https://github.com/korcankaraokcu/PINCE",
+        "notable_channels": [
+            "#general",
+            "#issues"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/pince.webp",
+        "category": "Computer Security",
+        "subcategory": "Security Tools"
+    },
+    {
+        "name": "CryptoDevs",
+        "invite_code": "https://discord.com/invite/EDA6M3R",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/cryptodevs/",
+        "git": "",
+        "notable_channels": [
+            "#core-crypto-dev",
+            "#layer-2-dev",
+            "#any-dev",
+            "#eth-dev",
+            "#web3-dev",
+            "#solidity-dev",
+            "#vyper-dev",
+            "#evm-dev",
+            "#tools-and-resources",
+            "#events",
+            "#jobs",
+            "#bounties",
+            "#contribute"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/cryptodevs.webp",
+        "category": "Blockchain and Cryptocurrency",
+        "subcategory": ""
+    },
+    {
+        "name": "Go Ethereum",
+        "invite_code": "https://discord.com/invite/nthXNEv",
+        "official": true,
+        "homepage": "https://geth.ethereum.org/",
+        "git": "https://github.com/ethereum/go-ethereum",
+        "notable_channels": [
+            "#general",
+            "#light-client",
+            "#abigen",
+            "#clef",
+            "#puppeth",
+            "#rinkeboy",
+            "#progpow",
+            "#firefly",
+            "#devp2p",
+            "#mobile"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/go_ethereum.webp",
+        "category": "Blockchain and Cryptocurrency",
+        "subcategory": ""
+    },
+    {
+        "name": "LBRY Foundation",
+        "invite_code": "https://discord.com/invite/Z3bERWA",
+        "official": true,
+        "homepage": "https://lbry.com/",
+        "git": "https://github.com/lbryio/",
+        "notable_channels": [
+            "#general",
+            "#ideas-and-feedback",
+            "#content",
+            "#help"
+        ],
+        "language": [
+            "English",
+            "język polski",
+            "Rumanian",
+            "한국어",
+            "Deutsch",
+            "中文",
+            "italiano",
+            "português",
+            "日 本語",
+            "français",
+            "español",
+            "Türkçe",
+            "Nederlands",
+            "русский",
+            "हिन्दी",
+            "বাংলা",
+            "Czech",
+            "bahasa Indonesia",
+            "Pilipino"
+        ],
+        "icon": "images/server_icons/lbry_foundation.webp",
+        "category": "Blockchain and Cryptocurrency",
+        "subcategory": ""
+    },
+    {
+        "name": "Cardano Community",
+        "invite_code": "https://discord.com/invite/TUr9RDU",
+        "official": true,
+        "homepage": "https://www.cardano.org/",
+        "git": "https://github.com/input-output-hk/cardano-sl",
+        "notable_channels": [
+            "#general",
+            "#learning",
+            "#trading",
+            "#yoroi-general",
+            "#yoroi-support",
+            "#daedalus-general",
+            "#daedalus-support",
+            "#dev-general",
+            "#cip"
+        ],
+        "language": [
+            "English",
+            "日本語",
+            "中文",
+            "한국어",
+            "Deutsch",
+            "Nedarlands",
+            "português",
+            "español",
+            "Czech"
+        ],
+        "icon": "images/server_icons/cardano_community.webp",
+        "category": "Blockchain and Cryptocurrency",
+        "subcategory": "Currencies"
+    },
+    {
+        "name": "EtherGem / EGEM & SFRX",
+        "invite_code": "https://discord.com/invite/zav3EkW",
+        "official": true,
+        "homepage": "https://egem.io/",
+        "git": "https://github.com/TeamEGEM",
+        "notable_channels": [
+            "#egem-chat",
+            "#sfrx-chat",
+            "#mn-talk",
+            "#docker-mn-talk",
+            "#otc-market",
+            "#trading-talk",
+            "#mining",
+            "#zero-coin",
+            "#dev-talks",
+            "#bounties"
+        ],
+        "language": [
+            "English",
+            "português",
+            "中文",
+            "français",
+            "Deutsch",
+            "русский",
+            "日本語",
+            "한국어",
+            "español"
+        ],
+        "icon": "images/server_icons/ethergem_egem_and_sfrx.webp",
+        "category": "Blockchain and Cryptocurrency",
+        "subcategory": "Currencies"
+    },
+    {
+        "name": "Metrix Market",
+        "invite_code": "https://discord.com/invite/5nwrTwJ",
+        "official": true,
+        "homepage": "https://www.metrixcoin.com/",
+        "git": "https://github.com/TheLindaProjectInc",
+        "notable_channels": [
+            "#general",
+            "#documentation",
+            "#development",
+            "#decentralization",
+            "#graphic-design",
+            "#business",
+            "#events",
+            "#integration",
+            "#protocol",
+            "#roadmap",
+            "#support"
+        ],
+        "language": [
+            "English",
+            "español",
+            "русский",
+            "bahasa Indonesia",
+            "italiano",
+            "Deutsch",
+            "中文",
+            "français",
+            "português",
+            "Türkçe",
+            "Tiếng Việt"
+        ],
+        "icon": "images/server_icons/metrix_market.webp",
+        "category": "Blockchain and Cryptocurrency",
+        "subcategory": "Currencies"
+    },
+    {
+        "name": "Vertcoin - Official",
+        "invite_code": "https://discord.com/invite/vertcoin",
+        "official": true,
+        "homepage": "https://vertcoin.org/",
+        "git": "https://github.com/vertcoin-project",
+        "notable_channels": [
+            "#general",
+            "#trading",
+            "#marketing",
+            "#development",
+            "#mining-help",
+            "#mining-rig-discussion"
+        ],
+        "language": [
+            "English",
+            "한국어",
+            "русский"
+        ],
+        "icon": "images/server_icons/vertcoin.webp",
+        "category": "Blockchain and Cryptocurrency",
+        "subcategory": "Currencies"
+    },
+    {
+        "name": "Manim",
+        "invite_code": "https://discord.com/invite/mMRrZQW",
+        "official": true,
+        "homepage": "https://www.manim.community",
+        "git": "https://github.com/ManimCommunity",
+        "notable_channels": [
+            "#3blue1brown",
+            "#manim-help",
+            "#python-help",
+            "#math-discussion",
+            "#manim-dev",
+            "#projects",
+            "#docs"
+        ],
+        "language": [
+            "English",
+            "español",
+            "português",
+            "français",
+            "Deutsch",
+            "русский \\"
+        ],
+        "icon": "images/server_icons/manim.webp",
+        "category": "Simulation",
+        "subcategory": ""
+    },
+    {
+        "name": "dimforge",
+        "invite_code": "https://discord.com/invite/vt9DJSW",
+        "official": true,
+        "homepage": "https://www.dimforge.com/",
+        "git": "https://github.com/dimforge",
+        "notable_channels": [
+            "#rapier",
+            "#bevy_rapier",
+            "#rapier-js",
+            "#parry",
+            "#salva",
+            "#nalgebra",
+            "#simba",
+            "#nphysics",
+            "#simba"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/dimforge.webp",
+        "category": "Simulation",
+        "subcategory": ""
+    },
+    {
+        "name": "Coders Craft",
+        "invite_code": "https://discord.com/invite/DA9qDXF",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#general",
+            "#xpl-res",
+            "#dev-chat",
+            "#lua",
+            "#c-cpp",
+            "#microsoft-flight-simulation-dev-chat",
+            "#modeling-texture"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/coders_craft.webp",
+        "category": "Simulation",
+        "subcategory": "Flight Simulation"
+    },
+    {
+        "name": "FlyByWire Simulations",
+        "invite_code": "https://discord.com/invite/UjzuHMU",
+        "official": true,
+        "homepage": "",
+        "git": "https://github.com/flybywiresim/a32nx",
+        "notable_channels": [
+            "#help",
+            "#aviation-chat",
+            "#hardware-chat",
+            "#a32nx-chat",
+            "#a380x-chat",
+            "#dev-support",
+            "#atsu-api",
+            "#lighting",
+            "#modeling",
+            "#sound",
+            "#your-controls"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/flybywire_simulations.webp",
+        "category": "Simulation",
+        "subcategory": "Flight Simulation"
+    },
+    {
+        "name": "Brackeys",
+        "invite_code": "https://discord.com/invite/brackeys",
+        "official": true,
+        "homepage": "https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA",
+        "git": "https://github.com/Brackeys",
+        "notable_channels": [
+            "#tutorials_and_articles",
+            "#unity",
+            "#programming",
+            "#mobile",
+            "#code_optimization",
+            "#shaders",
+            "#game_jams",
+            "#art",
+            "#audio",
+            "#game_design",
+            "#marketing",
+            "#collaboration"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/brackeys.webp",
+        "category": "Game Development",
+        "subcategory": ""
+    },
+    {
+        "name": "Game Dev League",
+        "invite_code": "https://discord.com/invite/gamedev",
+        "official": false,
+        "homepage": "https://gamedevleague.com/",
+        "git": "",
+        "notable_channels": [
+            "#events",
+            "#unity",
+            "#unreal-engine",
+            "#gamemaker-studio",
+            "#open-source",
+            "#löve-dev",
+            "#monogame-and-libgdx-dev",
+            "#godot",
+            "#web-dev",
+            "#cryengine-dev",
+            "#vr-dev",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/game_dev_league.webp",
+        "category": "Game Development",
+        "subcategory": ""
+    },
+    {
+        "name": "Game Dev Network",
+        "invite_code": "https://discord.com/invite/gdn",
+        "official": false,
+        "homepage": "https://twitter.com/gamedevnetwork_",
+        "git": "https://github.com/Game-Dev-Network",
+        "notable_channels": [
+            "#gamedev-talk",
+            "#career-advice",
+            "#gamejam",
+            "#work-in-progress",
+            "#unity",
+            "#unreal",
+            "#godot",
+            "#gamemaker",
+            "#stride-xenko",
+            "#roblox",
+            "#ui-ux",
+            "#3d-modeling",
+            "#sound",
+            "#looking-for-work"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/game_dev_network.webp",
+        "category": "Game Development",
+        "subcategory": ""
+    },
+    {
+        "name": "osu!dev",
+        "invite_code": "https://discord.com/invite/ppy",
+        "official": false,
+        "homepage": "https://ppy.sh/",
+        "git": "https://github.com/ppy",
+        "notable_channels": [
+            "#osu-lazer",
+            "#osu-framework",
+            "#osu-dev",
+            "#difficulty-osu",
+            "#difficulty-taiko",
+            "#difficulty-catch",
+            "#difficulty-mania",
+            "#osu-wiki",
+            "#modding",
+            "#mappers-guild"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/osu_dev.webp",
+        "category": "Game Development",
+        "subcategory": ""
+    },
+    {
+        "name": "Reddit /r/gamedev",
+        "invite_code": "https://discord.com/invite/reddit-gamedev",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/gamedev/",
+        "git": "https://github.com/r-gamedev",
+        "notable_channels": [
+            "#gamedev-general",
+            "#show-off-your-stuff",
+            "#unity",
+            "#unreal",
+            "#godot",
+            "#lhtml5-javascript",
+            "#c-cpp-csharp-java",
+            "#opengl-vulkan",
+            "#gamemaker",
+            "#retro",
+            "#audio",
+            "#visuals",
+            "#jobs"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/reddit_r_gamedev.webp",
+        "category": "Game Development",
+        "subcategory": ""
+    },
+    {
+        "name": "/r/GameDesign",
+        "invite_code": "https://discord.com/invite/gamedesign",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/gamedesign/",
+        "git": "",
+        "notable_channels": [
+            "#digital-game-design",
+            "#tabletop-game-design",
+            "#game-development",
+            "#music-and-art",
+            "#find-people",
+            "#get-found",
+            "#current-projects"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/r_gamedesign.webp",
+        "category": "Game Development",
+        "subcategory": "Game Design"
+    },
+    {
+        "name": "Graphics Programming",
+        "invite_code": "https://discord.com/invite/6mgNGk7",
+        "official": false,
+        "homepage": "",
+        "git": "https://github.com/GraphicsProgramming",
+        "notable_channels": [
+            "#mathematics",
+            "#questions",
+            "#ray-tracing",
+            "#techniques",
+            "#directx",
+            "#gpu-compute",
+            "#opengl",
+            "#unity-unreal",
+            "#vulkan",
+            "#web",
+            "#algorithms",
+            "#bikeshed",
+            "#engine-dev",
+            "#low-level"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/graphics_programming.webp",
+        "category": "Game Development",
+        "subcategory": "Game Design"
+    },
+    {
+        "name": "OpenVFX: The Blender Hub",
+        "invite_code": "https://discord.com/invite/blender",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#cgi-general",
+            "#resources",
+            "#3d-printing",
+            "#animation-rigging",
+            "#coding",
+            "#grease-pencil",
+            "#materials",
+            "#modeling",
+            "#physics",
+            "#rendering",
+            "#roblox",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English",
+            "Deutsch",
+            "português",
+            "español",
+            "Nederlands",
+            "suomi",
+            "Magyar",
+            "svenska",
+            "dansk",
+            "हिन्दी"
+        ],
+        "icon": "images/server_icons/openvfx_the_blender_hub.webp",
+        "category": "Game Development",
+        "subcategory": "Game Design"
+    },
+    {
+        "name": "Shadertoy",
+        "invite_code": "https://discord.com/invite/XtmMN6E",
+        "official": true,
+        "homepage": "https://www.shadertoy.com",
+        "git": "",
+        "notable_channels": [
+            "#shader-programming",
+            "#beginners",
+            "#mathematics",
+            "#showcase",
+            "#live-coding-streams",
+            "#resources"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/shadertoy.webp",
+        "category": "Game Development",
+        "subcategory": "Game Design"
+    },
+    {
+        "name": "TTRPG Design and Playtesting",
+        "invite_code": "https://discord.com/invite/5XRWTj9",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/RPGdesign/",
+        "git": "",
+        "notable_channels": [
+            "#business",
+            "#game-design",
+            "#math",
+            "#mechanics",
+            "#playtesting",
+            "#visual-design",
+            "#world-design",
+            "#writing",
+            "#game-critique",
+            "#mechanics-critique",
+            "#projects"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/ttrpg_design_and_playtesting.webp",
+        "category": "Game Development",
+        "subcategory": "Game Design"
+    },
+    {
+        "name": "Amethyst",
+        "invite_code": "https://discord.com/invite/amethyst",
+        "official": true,
+        "homepage": "https://www.amethyst.rs/",
+        "git": "https://github.com/amethyst/",
+        "notable_channels": [
+            "#general",
+            "#help",
+            "#logic",
+            "#art",
+            "#showcase-team",
+            "#gamejam",
+            "#engine-general",
+            "#bikeshed",
+            "#review-request",
+            "#assets",
+            "#audio",
+            "#documentation",
+            "#ecs",
+            "#editor",
+            "#rendering"
+        ],
+        "language": [
+            "English",
+            "Deutsch",
+            "français",
+            "日本語",
+            "русский",
+            "中文",
+            "dansk"
+        ],
+        "icon": "images/server_icons/amethyst.webp",
+        "category": "Game Development",
+        "subcategory": "Game Engines"
+    },
+    {
+        "name": "Armory",
+        "invite_code": "https://discord.com/invite/axq6qWV",
+        "official": true,
+        "homepage": "https://armory3d.org/",
+        "git": "https://github.com/armory3d",
+        "notable_channels": [
+            "#armory",
+            "#armor-paint",
+            "#general",
+            "#armory-dev",
+            "#haxe",
+            "#logic-nodes",
+            "#showcase"
+        ],
+        "language": [
+            "English",
+            "français \\"
+        ],
+        "icon": "images/server_icons/armory.webp",
+        "category": "Game Development",
+        "subcategory": "Game Engines"
+    },
+    {
+        "name": "Bevy Engine",
+        "invite_code": "https://discord.com/invite/gMUk5Ph",
+        "official": true,
+        "homepage": "https://bevyengine.org/",
+        "git": "https://github.com/bevyengine/",
+        "notable_channels": [
+            "#general",
+            "#help",
+            "#code-review",
+            "#showcase",
+            "#tutorials",
+            "#dev-general",
+            "#assets",
+            "#audio",
+            "#documentation",
+            "#ecs",
+            "#ui",
+            "#rendering"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/bevy.webp",
+        "category": "Game Development",
+        "subcategory": "Game Engines"
+    },
+    {
+        "name": "Construct Community",
+        "invite_code": "https://discord.com/invite/8RJBHbX",
+        "official": false,
+        "homepage": "",
+        "git": "https://github.com/WebCreationClub",
+        "notable_channels": [
+            "#general",
+            "#feedback",
+            "#ask",
+            "#js",
+            "#tips",
+            "#tools",
+            "#job-offers",
+            "#addons",
+            "#effects"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/construct_community.webp",
+        "category": "Game Development",
+        "subcategory": "Game Engines"
+    },
+    {
+        "name": "CRYENGINE Community",
+        "invite_code": "https://discord.com/invite/cryengine",
+        "official": true,
+        "homepage": "https://www.cryengine.com/",
+        "git": "https://github.com/CRYTEK/CRYENGINE",
+        "notable_channels": [
+            "#support",
+            "#licensing",
+            "#general",
+            "#showcase",
+            "#ask-for-help",
+            "#coding",
+            "#art-and-assets",
+            "#animation-and-physics",
+            "#audio",
+            "#shaders-and-rendering",
+            "#vfx-visual-effects",
+            "#jobs"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/cryengine_community.webp",
+        "category": "Game Development",
+        "subcategory": "Game Engines"
+    },
+    {
+        "name": "GameMaker",
+        "invite_code": "https://discord.com/invite/By6u9pC",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/gamemaker/",
+        "git": "https://github.com/GameMakerDiscord",
+        "notable_channels": [
+            "#gamedev",
+            "#technical",
+            "#game-design",
+            "#3d_in_gamemaker",
+            "#shaders",
+            "#netcode",
+            "#beta_2_3",
+            "#help",
+            "#gamemaker_showcase"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/gamemaker.webp",
+        "category": "Game Development",
+        "subcategory": "Game Engines"
+    },
+    {
+        "name": "GDevelop",
+        "invite_code": "https://discord.com/invite/rjdYHvj",
+        "official": true,
+        "homepage": "https://gdevelop-app.com/",
+        "git": "https://github.com/4ian/GDevelop",
+        "notable_channels": [
+            "#wip",
+            "#art-and-assets",
+            "#finished-games",
+            "#game-jam",
+            "#general",
+            "#quick-questions",
+            "#engine-development",
+            "#javascript",
+            "#extension",
+            "#wiki"
+        ],
+        "language": [
+            "English",
+            "Deutsch",
+            "français",
+            "español",
+            "日本語",
+            "português",
+            "русский",
+            "italiano"
+        ],
+        "icon": "images/server_icons/gdevelop.webp",
+        "category": "Game Development",
+        "subcategory": "Game Engines"
+    },
+    {
+        "name": "Godot Engine",
+        "invite_code": "https://discord.com/invite/zH7NUgz",
+        "official": true,
+        "homepage": "https://godotengine.org/",
+        "git": "https://github.com/godotengine/",
+        "notable_channels": [
+            "#general",
+            "#showcase",
+            "#beginner-help",
+            "#help",
+            "#programming",
+            "#visual-script",
+            "#shaders",
+            "#networking",
+            "#engine",
+            "#mobile-dev",
+            "#gnative-dev",
+            "#plugins",
+            "#xr",
+            "#3d",
+            "#ui"
+        ],
+        "language": [
+            "English",
+            "عربي",
+            "español",
+            "polski"
+        ],
+        "icon": "images/server_icons/godot_engine.webp",
+        "category": "Game Development",
+        "subcategory": "Game Engines"
+    },
+    {
+        "name": "Official Unity Discord",
+        "invite_code": "https://discord.com/invite/unity",
+        "official": true,
+        "homepage": "https://unity.com/",
+        "git": "https://github.com/Unity-Technologies",
+        "notable_channels": [
+            "#general-unity",
+            "#game-jams",
+            "#completed-projects",
+            "#unitytips",
+            "#general-code",
+            "#editor-extensions",
+            "#dots",
+            "#shaders",
+            "#mobile",
+            "#machine-learning",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/official_unity_discord.webp",
+        "category": "Game Development",
+        "subcategory": "Game Engines"
+    },
+    {
+        "name": "Panda3D",
+        "invite_code": "https://discord.com/invite/UyepRMm",
+        "official": true,
+        "homepage": "https://www.panda3d.org/",
+        "git": "https://github.com/panda3d",
+        "notable_channels": [
+            "#general",
+            "#development"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/panda3d.webp",
+        "category": "Game Development",
+        "subcategory": "Game Engines"
+    },
+    {
+        "name": "Ren'Py",
+        "invite_code": "https://discord.com/invite/6ckxWYm",
+        "official": true,
+        "homepage": "http://www.renpy.org/",
+        "git": "https://github.com/renpy",
+        "notable_channels": [
+            "#renpy",
+            "#ontopic",
+            "#todayidid",
+            "#social"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/renpy.webp",
+        "category": "Game Development",
+        "subcategory": "Game Engines"
+    },
+    {
+        "name": "Twine Games",
+        "invite_code": "https://discord.com/invite/n5dJvPp",
+        "official": true,
+        "homepage": "https://twinery.org/",
+        "git": "https://github.com/tweecode",
+        "notable_channels": [
+            "#central-planning",
+            "#sugarcube",
+            "#harlowe",
+            "#chapbook",
+            "#snowman",
+            "#twine1-formats",
+            "#compilers",
+            "#general-twine-talk",
+            "#writing-discussion",
+            "#testing-and-released",
+            "#resources"
+        ],
+        "language": [
+            "English",
+            "Deutsch",
+            "español",
+            "français"
+        ],
+        "icon": "images/server_icons/twine_games.webp",
+        "category": "Game Development",
+        "subcategory": "Game Engines"
+    },
+    {
+        "name": "Unity Developer Community",
+        "invite_code": "https://discord.com/invite/bu3bbby",
+        "official": false,
+        "homepage": "https://corniflex.itch.io/",
+        "git": "",
+        "notable_channels": [
+            "#unity-help",
+            "#general-programming",
+            "#advanced-programming",
+            "#physics-maths",
+            "#networking",
+            "#art-2d",
+            "#art-3d",
+            "#ui-design",
+            "#audio-engineering",
+            "#projects-showcase",
+            "#udc-jam-week"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/unity_developer_community.webp",
+        "category": "Game Development",
+        "subcategory": "Game Engines"
+    },
+    {
+        "name": "Unreal Slackers",
+        "invite_code": "https://discord.com/invite/unreal-slackers",
+        "official": false,
+        "homepage": "https://unrealslackers.org/",
+        "git": "https://github.com/unreal-slackers",
+        "notable_channels": [
+            "#unreal-engine",
+            "#design-chat",
+            "#game-jams",
+            "#work-in-progress",
+            "#graphics",
+            "#animation",
+            "#audio",
+            "#cinematics",
+            "#level-design",
+            "#paper2d",
+            "#visual-fx",
+            "#niagra",
+            "#blueprint",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/unreal_slackers.webp",
+        "category": "Game Development",
+        "subcategory": "Game Engines"
+    },
+    {
+        "name": "DirectX",
+        "invite_code": "https://discord.com/invite/directx",
+        "official": true,
+        "homepage": "https://devblogs.microsoft.com/directx/",
+        "git": "https://github.com/Microsoft/DirectX-Graphics-Samples",
+        "notable_channels": [
+            "#dx-developer-day",
+            "#dx12-developers",
+            "#dx9-dx11-developers",
+            "#pix",
+            "#showcase",
+            "#bug-reports",
+            "#feature-requests",
+            "#dx-gaming-questions",
+            "#getting-started-guides"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/directx.webp",
+        "category": "Game Development",
+        "subcategory": "Game Development Tools"
+    },
+    {
+        "name": "EngineHub",
+        "invite_code": "https://discord.com/invite/enginehub",
+        "official": true,
+        "homepage": "https://enginehub.org/",
+        "git": "https://github.com/EngineHub",
+        "notable_channels": [
+            "#wordedit",
+            "#worldguard",
+            "#craftbook",
+            "#commandbook",
+            "#enginehub",
+            "#api",
+            "#dev-team",
+            "#git-log",
+            "#showcase"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/enginehub.webp",
+        "category": "Game Development",
+        "subcategory": "Game Development Tools"
+    },
+    {
+        "name": "IntellectualSites",
+        "invite_code": "https://discord.com/invite/KxkjDVg",
+        "official": true,
+        "homepage": "https://intellectualsites.com/",
+        "git": "https://github.com/IntellectualSites",
+        "notable_channels": [
+            "#fawe-support",
+            "#fawe-developer-chat",
+            "#ps-developer-chat",
+            "#hv-general-chat",
+            "#is-web",
+            "#programming"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/intellectualsites.webp",
+        "category": "Game Development",
+        "subcategory": "Game Development Tools"
+    },
+    {
+        "name": "LinuxGSM",
+        "invite_code": "https://discord.com/invite/UM4VTpK",
+        "official": true,
+        "homepage": "https://linuxgsm.com/",
+        "git": "https://github.com/GameServerManagers",
+        "notable_channels": [
+            "#linuxgsm",
+            "#linux",
+            "#game-server",
+            "#general",
+            "#battlestations"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/linuxgsm_.webp",
+        "category": "Game Development",
+        "subcategory": "Game Development Tools"
+    },
+    {
+        "name": "raylib",
+        "invite_code": "https://discord.com/invite/VkzNHUE",
+        "official": true,
+        "homepage": "https://www.raylib.com/",
+        "git": "https://github.com/raysan5/raylib",
+        "notable_channels": [
+            "#general",
+            "#madewithraylib",
+            "#help",
+            "#game-design",
+            "#raspberry-pi",
+            "#raylibtech",
+            "#rayfork",
+            "#raylib",
+            "#raygui",
+            "#rres",
+            "#challenges",
+            "#raylib-bindings"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/raylib.webp",
+        "category": "Game Development",
+        "subcategory": "Game Development Tools"
+    },
+    {
+        "name": "RPCS3",
+        "invite_code": "https://discord.com/invite/a6zm2T8",
+        "official": true,
+        "homepage": "https://rpcs3.net/",
+        "git": "https://github.com/rpcs3",
+        "notable_channels": [
+            "#rpcs3",
+            "#help",
+            "#development",
+            "#media"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/rpcs3.webp",
+        "category": "Game Development",
+        "subcategory": "Game Development Tools"
+    },
+    {
+        "name": "Steam ROM Manager",
+        "invite_code": "https://discord.com/invite/vrd6385",
+        "official": true,
+        "homepage": "https://dozennn.github.io/steam-rom-manager/",
+        "git": "https://discord.com/invite/vrd6385",
+        "notable_channels": [
+            "#srm_discussion",
+            "#parser_support"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/steam_rom_manager.webp",
+        "category": "Game Development",
+        "subcategory": "Game Development Tools"
+    },
+    {
+        "name": "TES3MP",
+        "invite_code": "https://discord.com/invite/ECJk293",
+        "official": true,
+        "homepage": "https://tes3mp.com/",
+        "git": "https://github.com/TES3MP",
+        "notable_channels": [
+            "#general",
+            "#technical-help",
+            "#scripting-help",
+            "#content_discussion",
+            "#bug_reports",
+            "#development",
+            "#suggestions"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/tes3mp.webp",
+        "category": "Game Development",
+        "subcategory": "Game Development Tools"
+    },
+    {
+        "name": "VKx",
+        "invite_code": "https://discord.com/invite/usAgsbK",
+        "official": true,
+        "homepage": "",
+        "git": "https://github.com/doitsujin/dxvk",
+        "notable_channels": [
+            "#d3d9-users",
+            "#d3d9-dev",
+            "#d3d11-users",
+            "#d3d11-dev",
+            "#wine",
+            "#proton",
+            "#vkd3d-users",
+            "#vkd3d-dev",
+            "#winehackers",
+            "#trivial-anti-cheetah-users",
+            "#easy-anti-lobster-dev",
+            "#builds"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/vkx.webp",
+        "category": "Game Development",
+        "subcategory": "Game Development Tools"
+    },
+    {
+        "name": "GamingOnLinux",
+        "invite_code": "https://discord.com/invite/AghnYbMjYg",
+        "official": true,
+        "homepage": "https://www.gamingonlinux.com/",
+        "git": "",
+        "notable_channels": [
+            "#linux-gaming",
+            "#proton-steamplay-gaming",
+            "#wine-gaming",
+            "#cloud-streaming-stadia",
+            "#tech-support",
+            "#emulation",
+            "#developer-stuff",
+            "#hardware",
+            "#vr_and_ar",
+            "#your-content"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/gamingonlinux.webp",
+        "category": "Game Development",
+        "subcategory": "Gaming on Linux"
+    },
+    {
+        "name": "Linux Gaming",
+        "invite_code": "https://discord.com/invite/linuxgaming",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#news",
+            "#general",
+            "#irc",
+            "#requests_and_feedback",
+            "#lutris_support",
+            "#linux_support",
+            "#installer_creation"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/linux_gaming.webp",
+        "category": "Game Development",
+        "subcategory": "Gaming on Linux"
+    },
+    {
+        "name": "ProtonDB Official Server",
+        "invite_code": "https://discord.com/invite/uuwK9EV",
+        "official": true,
+        "homepage": "https://www.protondb.com/",
+        "git": "",
+        "notable_channels": [
+            "#protondb-website",
+            "#proton-game-support",
+            "#proton",
+            "#linux",
+            "#linux-support",
+            "#general-game-support"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/protondb_official_server.webp",
+        "category": "Game Development",
+        "subcategory": "Gaming on Linux"
+    },
+    {
+        "name": "Project North Star",
+        "invite_code": "https://discord.com/invite/2aE2Nfq",
+        "official": true,
+        "homepage": "https://developer.leapmotion.com/northstar",
+        "git": "https://github.com/leapmotion/ProjectNorthStar",
+        "notable_channels": [
+            "#build-planning",
+            "#northstar3-2",
+            "#jenson-redesing",
+            "#triton",
+            "#exii-raspberry-pi",
+            "#cad",
+            "#eye-tracking",
+            "#calibration",
+            "#steamvr",
+            "#mechanical",
+            "#firmware",
+            "#troubleshooting"
+        ],
+        "language": [
+            "English",
+            "Deutsch",
+            "français",
+            "español",
+            "日本語",
+            "韓國語"
+        ],
+        "icon": "images/server_icons/project_north_star.webp",
+        "category": "Virtual Reality",
+        "subcategory": ""
+    },
+    {
+        "name": "VRChat",
+        "invite_code": "https://discord.com/invite/vrchat",
+        "official": true,
+        "homepage": "https://vrchat.com/",
+        "git": "https://github.com/vrchat",
+        "notable_channels": [
+            "#udon-questions",
+            "#vrchat-development",
+            "#avatars",
+            "#avatar-rigging",
+            "#animation",
+            "#shaders",
+            "#3d-modeling",
+            "#worlds",
+            "#world-lighting",
+            "#oculus-quest-development",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English",
+            "Deutsch",
+            "اَلْعَرَبِيَّةُ‎",
+            "français",
+            "汉语",
+            "español",
+            "日本語",
+            "dansk",
+            "한국어",
+            "português",
+            "polski",
+            "русский"
+        ],
+        "icon": "images/server_icons/vrchat.webp",
+        "category": "Virtual Reality",
+        "subcategory": ""
+    },
+    {
+        "name": "Virtual Reality",
+        "invite_code": "https://discord.com/invite/virtualreality",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#vr-dev",
+            "#tech-advice",
+            "#oculus-quest",
+            "#oculus-rift",
+            "#oculus-go",
+            "#valve-index",
+            "#pimax-vr",
+            "#htc-vive",
+            "#windows-mixed-reality",
+            "#playstation-vr",
+            "#vr-flightsims"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/virtual_reality.webp",
+        "category": "Virtual Reality",
+        "subcategory": ""
+    },
+    {
+        "name": "/r/machinelearning",
+        "invite_code": "https://discord.com/invite/FVBUKzD",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#quick-questions",
+            "#machine-learning-projects",
+            "#resources",
+            "#math-questions",
+            "#programming-questions",
+            "#andrew-ng-coursera-machine-learning"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/r_machinelearning.webp",
+        "category": "Machine Learning",
+        "subcategory": ""
+    },
+    {
+        "name": "Artificial Intelligence",
+        "invite_code": "https://discord.com/invite/CbVJYtz",
+        "official": false,
+        "homepage": "https://discordnetwork.com/",
+        "git": "",
+        "notable_channels": [
+            "#questions",
+            "#machine-learning",
+            "#deep-learning",
+            "#reinforcement-learning",
+            "#natural-language-processing",
+            "#systems-neuroscience",
+            "#computer-vision",
+            "__[so much more](badges.md#so-much-more)__"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/artificial_intelligence.webp",
+        "category": "Machine Learning",
+        "subcategory": ""
+    },
+    {
+        "name": "Sentdex",
+        "invite_code": "https://discord.com/invite/sentdex",
+        "official": true,
+        "homepage": "https://www.youtube.com/user/sentdex",
+        "git": "https://github.com/Sentdex",
+        "notable_channels": [
+            "#__main__",
+            "#help"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/sentdex.webp",
+        "category": "Machine Learning",
+        "subcategory": ""
+    },
+    {
+        "name": "TensorFlow",
+        "invite_code": "https://discord.com/invite/64MVzQX",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#tf-general",
+            "#ai-ethics",
+            "#tensorflow-javascript",
+            "#tensorflow-python",
+            "#convolutional-neural-network",
+            "#recurrent-neural-network",
+            "#generative-adversarial-networks"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/tensorflow.webp",
+        "category": "Machine Learning",
+        "subcategory": ""
+    },
+    {
+        "name": "Data Science",
+        "invite_code": "https://discord.com/invite/UYNaemm",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#general",
+            "#machine-learning",
+            "#math",
+            "#programming",
+            "#career",
+            "#visualization",
+            "#resources",
+            "#colab",
+            "#papers"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/data_science.webp",
+        "category": "Machine Learning",
+        "subcategory": "Data Science"
+    },
+    {
+        "name": "Data Version Control",
+        "invite_code": "https://discord.com/invite/dvwXA2N",
+        "official": true,
+        "homepage": "https://dvc.org/",
+        "git": "https://github.com/iterative/dvc",
+        "notable_channels": [
+            "#q-and-a",
+            "#need-help",
+            "#general",
+            "#dev-talk",
+            "#dev-docs"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/dvc.webp",
+        "category": "Machine Learning",
+        "subcategory": "Data Science"
+    },
+    {
+        "name": "r/DataIsBeautiful",
+        "invite_code": "https://discord.com/invite/NRnrWE7",
+        "official": false,
+        "homepage": "https://www.reddit.com/r/dataisbeautiful/",
+        "git": "",
+        "notable_channels": [
+            "#dataviz",
+            "#datascience",
+            "#looking-for-help"
+        ],
+        "language": [
+            "English \\"
+        ],
+        "icon": "images/server_icons/r_dataisbeautiful.webp",
+        "category": "Machine Learning",
+        "subcategory": "Data Science"
+    },
+    {
+        "name": "The Data Share",
+        "invite_code": "https://discord.com/invite/eaPVRW3",
+        "official": false,
+        "homepage": "",
+        "git": "",
+        "notable_channels": [
+            "#machine-learning",
+            "#natural-language-processing",
+            "#analytics",
+            "#programming",
+            "#data-engineering",
+            "#visualizations",
+            "#community"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/the_data_share.webp",
+        "category": "Machine Learning",
+        "subcategory": "Data Science"
+    },
+    {
+        "name": "CS Career Hackers",
+        "invite_code": "https://discord.com/invite/rGwhXJv",
+        "official": true,
+        "homepage": "https://www.cscareerhackers.org/",
+        "git": "https://github.com/CS-Career-Hackers",
+        "notable_channels": [
+            "#big-n-discussion",
+            "#experienced",
+            "#resume-review",
+            "#career-questions",
+            "#ask-a-manager",
+            "#students",
+            "#meetups",
+            "#programming-challenges"
+        ],
+        "language": [
+            "English"
+        ],
+        "icon": "images/server_icons/cs_career_hackers.webp",
+        "category": "Career",
+        "subcategory": ""
     }
 ]

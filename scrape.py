@@ -5,12 +5,29 @@ import os
 def parse_readme(readme_content):
     communities = []
     community = None
+    current_category = ""
+    current_subcategory = ""
 
     lines = readme_content.splitlines()
     for line in lines:
         line = line.strip()
         print(f"Processing line: {line}")
-        
+
+        # Match category
+        match = re.match(r'^##\s+(.*)', line)
+        if match:
+            current_category = match.group(1).strip()
+            current_subcategory = ""  # Reset subcategory when a new category is found
+            print(f"Matched category: {current_category}")  # Debugging statement
+            continue
+
+        # Match subcategory
+        match = re.match(r'^###\s+(.*)', line)
+        if match:
+            current_subcategory = match.group(1).strip()
+            print(f"Matched subcategory: {current_subcategory}")  # Debugging statement
+            continue
+
         # Match server icon
         match = re.search(r'<img align="left" height="94px" width="94px" alt="Server Icon" src="(?P<icon>.*?)">', line)
         if match:
@@ -31,7 +48,9 @@ def parse_readme(readme_content):
                 "git": match.group('git').strip() if match.group('git') else "",
                 "notable_channels": [],
                 "language": [],
-                "icon": icon_url if 'icon_url' in locals() else ""
+                "icon": icon_url if 'icon_url' in locals() else "",
+                "category": current_category,
+                "subcategory": current_subcategory
             }
             print(f"Matched community: {community}")  # Debugging statement
 
